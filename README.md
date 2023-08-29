@@ -1,6 +1,8 @@
 # Crowdfunding_ETL
 Project 2
 
+Project Members: Hamid Nazari, Ryan Lund
+
 Instructions:
 1) 'ETL_Project_2' file is the final code for the assignment.
 2) 'Crowdfunding_bd_schema' file should be opened in pgAdmin and run to create the tables.
