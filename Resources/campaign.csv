@@ -1,4 +1,4 @@
-cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launch_date,end_date,cat_id,subcategory_id
+cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launched_date,end_date,cat_id,subcategory_id
 147,4661,"Baldwin, Riley and Jackson",Pre-emptive tertiary standardization,100.0,0.0,failed,0,CA,CAD,2020-02-13,2021-03-01,cat1,subcat1
 1175,2288,Werner-Bryant,Virtual uniform frame,1800.0,7991.0,successful,222,US,USD,2020-06-20,2021-01-30,cat1,subcat1
 873,2067,Stewart LLC,Cloned bi-directional architecture,1300.0,12047.0,successful,113,US,USD,2020-11-29,2021-06-11,cat1,subcat1
@@ -130,96 +130,6 @@ cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,cou
 2247,4113,Logan-Curtis,Enhanced optimal ability,170600.0,114523.0,failed,4405,US,USD,2020-11-21,2021-01-19,cat2,subcat2
 2408,4762,"Chan, Washington and Callahan",Optional zero administration neural-net,7800.0,3144.0,failed,92,US,USD,2021-04-12,2021-07-02,cat2,subcat2
 2632,3494,Ramirez LLC,Reduced reciprocal focus group,9800.0,11091.0,successful,241,US,USD,2020-12-09,2021-05-26,cat2,subcat2
-970,5468,"Rangel, Holt and Jones",Open-source fresh-thinking model,6200.0,3208.0,failed,44,US,USD,2021-08-13,2021-08-31,cat2,subcat6
-1239,6181,Fitzgerald PLC,Realigned user-facing concept,106400.0,39996.0,failed,1000,US,USD,2021-06-25,2021-08-08,cat2,subcat6
-253,5755,Douglas LLC,Reduced heuristic moratorium,900.0,9193.0,successful,164,US,USD,2021-10-06,2022-01-27,cat2,subcat6
-393,4181,"Frye, Hunt and Powell",Polarized incremental emulation,10000.0,2461.0,failed,37,IT,EUR,2021-05-10,2021-08-03,cat2,subcat6
-1090,2277,Parker LLC,Customizable intermediate extranet,137200.0,88037.0,failed,1467,US,USD,2021-12-02,2022-01-12,cat2,subcat6
-2536,2974,Smith and Sons,Upgradable high-level solution,15800.0,57157.0,successful,524,US,USD,2021-02-02,2021-12-15,cat2,subcat6
-3039,5066,Palmer Inc,Universal multi-state capability,63200.0,6041.0,failed,168,US,USD,2021-04-05,2021-07-05,cat2,subcat6
-2685,5773,Ferguson PLC,Public-key intangible superstructure,6300.0,13213.0,successful,176,US,USD,2020-10-03,2021-02-19,cat2,subcat6
-1401,4263,Richardson Inc,Assimilated fault-tolerant capacity,5000.0,8907.0,successful,106,US,USD,2021-02-21,2021-08-15,cat2,subcat6
-810,2269,Webb-Smith,Advanced content-based installation,9300.0,4124.0,failed,37,US,USD,2021-09-04,2021-11-29,cat2,subcat6
-179,2133,"Wang, Nguyen and Horton",Innovative holistic hub,6200.0,8645.0,successful,192,US,USD,2021-09-10,2021-11-05,cat2,subcat6
-1659,1373,Fox-Williams,Profound system-worthy functionalities,128900.0,196960.0,successful,7295,US,USD,2021-12-15,2022-01-13,cat2,subcat6
-2182,1979,West-Stevens,Reactive solution-oriented groupware,1200.0,13513.0,successful,122,US,USD,2021-03-30,2021-07-15,cat2,subcat6
-985,2184,Ramos and Sons,Extended responsive Internet solution,100.0,1.0,failed,1,GB,GBP,2021-06-11,2021-06-28,cat2,subcat6
-1519,3842,Rodriguez PLC,Grass-roots upward-trending installation,167500.0,114615.0,failed,1274,US,USD,2020-01-19,2021-03-14,cat2,subcat6
-2004,3606,Bright and Sons,Object-based needs-based info-mediaries,6000.0,12468.0,successful,160,US,USD,2021-10-23,2021-11-20,cat2,subcat6
-733,5139,"Craig, Ellis and Miller",Persevering 5thgeneration throughput,84500.0,193101.0,successful,2414,US,USD,2021-01-11,2021-06-17,cat2,subcat6
-2394,6234,Santos Group,Secured dynamic capacity,5600.0,9508.0,successful,122,US,USD,2020-12-13,2021-04-30,cat2,subcat6
-671,5602,"Walker, Taylor and Coleman",Multi-tiered directional open architecture,4200.0,10295.0,successful,98,US,USD,2020-11-11,2021-11-06,cat2,subcat8
-1683,5753,"Rodriguez, Rose and Stewart",Cloned directional synergy,28200.0,18829.0,failed,200,US,USD,2021-11-14,2022-01-02,cat2,subcat8
-2181,3443,"Hill, Lawson and Wilkinson",Multi-tiered eco-centric architecture,4900.0,6430.0,successful,71,AU,AUD,2021-05-29,2021-08-20,cat2,subcat8
-2912,3006,"Smith, Wells and Nguyen",Self-enabling grid-enabled initiative,119200.0,170623.0,successful,1917,US,USD,2021-07-09,2021-10-15,cat2,subcat8
-2465,5251,Avila-Jones,Implemented discrete secured line,5400.0,7322.0,successful,70,US,USD,2020-12-03,2021-11-25,cat2,subcat8
-2757,3456,"Payne, Oliver and Burch",Managed fresh-thinking flexibility,6200.0,13632.0,successful,195,US,USD,2020-09-08,2021-04-16,cat2,subcat8
-64,1276,"Bowen, Mcdonald and Hall",User-centric fault-tolerant task-force,41500.0,175573.0,successful,3376,US,USD,2020-11-13,2021-07-23,cat2,subcat8
-625,2260,Rodriguez-Brown,Devolved foreground benchmark,171300.0,100650.0,failed,1059,US,USD,2021-01-29,2021-06-20,cat2,subcat8
-2915,3567,Hernandez Group,Ergonomic uniform open system,128100.0,40107.0,failed,955,DK,DKK,2020-05-16,2021-03-18,cat2,subcat8
-1458,2114,"Summers, Gallegos and Stein",Mandatory mobile product,188100.0,5528.0,failed,67,US,USD,2020-09-24,2021-07-27,cat2,subcat8
-3195,3963,"Calhoun, Rogers and Long",Progressive discrete hub,6600.0,3012.0,failed,65,US,USD,2020-04-25,2021-03-22,cat2,subcat8
-2691,2969,Morgan-Warren,Face-to-face encompassing info-mediaries,87900.0,171549.0,successful,4289,US,USD,2020-12-20,2021-07-30,cat2,subcat8
-735,2761,"Lloyd, Kennedy and Davis",Compatible multimedia hub,1700.0,5328.0,successful,107,US,USD,2021-02-27,2021-10-02,cat2,subcat8
-3168,1302,"Guerrero, Flores and Jenkins",Networked optimal architecture,3400.0,2809.0,failed,32,US,USD,2021-01-12,2021-12-22,cat2,subcat8
-2545,4328,Harris-Perry,User-centric 6thgeneration attitude,4100.0,3087.0,canceled,75,US,USD,2021-03-05,2021-07-26,cat2,subcat8
-80,4594,Guzman Group,Ameliorated disintermediate utilization,114300.0,96777.0,failed,1257,US,USD,2021-02-10,2021-09-22,cat2,subcat8
-116,5810,Little-Marsh,Virtual attitude-oriented migration,8000.0,2758.0,failed,25,US,USD,2021-10-07,2021-12-28,cat2,subcat8
-2087,2017,Ramirez-Myers,Switchable intangible definition,900.0,14547.0,successful,186,US,USD,2020-11-25,2021-10-16,cat2,subcat8
-1409,3331,Leblanc-Pineda,Future-proofed upward-trending contingency,2700.0,1479.0,failed,25,US,USD,2021-08-13,2021-11-21,cat2,subcat8
-764,6089,Cruz Ltd,Exclusive dynamic adapter,114800.0,12938.0,canceled,145,CH,CHF,2020-06-26,2021-03-09,cat2,subcat8
-1635,2383,"Acosta, Mullins and Morris",Pre-emptive interactive model,97300.0,62127.0,failed,941,US,USD,2021-05-28,2021-07-01,cat2,subcat8
-1653,1419,Schmidt-Gomez,User-centric impactful projection,5100.0,2064.0,failed,83,US,USD,2021-06-02,2021-09-04,cat2,subcat8
-3158,4952,Hensley Ltd,Versatile global attitude,6200.0,10938.0,successful,296,US,USD,2020-10-28,2021-02-27,cat2,subcat8
-1646,4765,"Wilson, Brooks and Clark",Operative well-modulated data-warehouse,146400.0,152438.0,successful,1605,US,USD,2021-11-14,2021-12-14,cat2,subcat8
-726,2228,"Avila, Ford and Welch",Focused leadingedge matrix,9000.0,7227.0,failed,80,GB,GBP,2020-05-24,2021-05-26,cat2,subcat8
-2082,2077,"Holt, Bernard and Johnson",Multi-lateral didactic encoding,115600.0,184086.0,successful,2218,GB,GBP,2021-01-04,2021-04-11,cat2,subcat8
-1807,3012,Harrison-Bridges,Profit-focused exuding moderator,77000.0,1930.0,failed,49,GB,GBP,2021-03-04,2021-09-21,cat2,subcat8
-1436,6196,Morrison-Henderson,De-engineered disintermediate encoding,100.0,4.0,canceled,1,CH,CHF,2021-06-18,2021-11-12,cat2,subcat8
-2704,1968,Ritter PLC,Multi-channeled upward-trending application,9500.0,14408.0,successful,554,CA,CAD,2020-12-25,2021-07-12,cat2,subcat8
-68,3879,Burnett-Mora,Quality-focused 24/7 superstructure,6400.0,12129.0,successful,238,GB,GBP,2020-09-06,2021-08-01,cat2,subcat8
-1260,1563,Smith-Smith,Total leadingedge neural-net,189000.0,5916.0,failed,64,US,USD,2021-03-10,2021-05-26,cat2,subcat8
-2929,2632,"Dunn, Moreno and Green",Intuitive object-oriented task-force,1900.0,2884.0,successful,96,US,USD,2021-02-23,2021-02-28,cat2,subcat8
-255,1334,Robinson Group,Re-contextualized homogeneous flexibility,16200.0,75955.0,successful,1101,US,USD,2020-07-03,2021-05-18,cat2,subcat8
-842,1639,"Turner, Scott and Gentry",Assimilated regional groupware,5600.0,2445.0,failed,58,IT,EUR,2021-03-31,2021-12-04,cat2,subcat8
-2392,4020,Gardner Inc,Function-based systematic Graphical User Interface,3700.0,5028.0,successful,180,US,USD,2021-07-22,2022-01-03,cat2,subcat8
-1699,2790,Meyer-Avila,Multi-tiered discrete support,10000.0,6100.0,failed,191,US,USD,2020-12-02,2021-05-28,cat2,subcat8
-335,4789,Matthews LLC,Advanced transitional help-desk,3900.0,8125.0,successful,198,US,USD,2020-09-05,2021-04-21,cat2,subcat8
-2711,1620,Johnson-Pace,Persistent 3rdgeneration moratorium,149600.0,169586.0,successful,5139,US,USD,2021-07-10,2022-01-12,cat2,subcat8
-1169,5779,Macias Inc,Optimized didactic intranet,8100.0,6086.0,failed,94,US,USD,2020-09-02,2021-08-06,cat2,subcat8
-342,4533,Jones-Ryan,Vision-oriented uniform instruction set,6700.0,8917.0,successful,307,US,USD,2021-03-27,2021-10-09,cat2,subcat8
-3061,2222,Collier LLC,Secured well-modulated projection,17100.0,111502.0,successful,1467,CA,CAD,2020-09-09,2021-09-05,cat2,subcat8
-1336,3928,Sanders LLC,Multi-tiered explicit focus group,150600.0,127745.0,failed,1825,US,USD,2021-02-01,2022-01-16,cat2,subcat8
-1062,1422,"Christian, Kim and Jimenez",Devolved foreground throughput,134400.0,155849.0,successful,1470,US,USD,2021-07-11,2021-09-17,cat2,subcat8
-2250,3057,"Thomas, Clay and Mendoza",Multi-channeled reciprocal interface,800.0,2991.0,successful,32,US,USD,2020-05-13,2021-03-06,cat2,subcat8
-2175,6073,"Taylor, Santiago and Flores",Polarized composite customer loyalty,66600.0,37823.0,failed,374,US,USD,2020-10-08,2021-04-11,cat2,subcat8
-378,3714,"Jones, Taylor and Moore",Down-sized system-worthy secured line,100.0,2.0,failed,1,IT,EUR,2021-10-08,2021-11-03,cat2,subcat17
-747,2812,Davis-Michael,Progressive tertiary framework,3900.0,4776.0,successful,85,GB,GBP,2021-06-29,2021-08-27,cat2,subcat17
-1221,2152,Sandoval Group,Assimilated multi-tasking archive,7100.0,8716.0,successful,126,US,USD,2021-08-30,2021-09-21,cat2,subcat17
-2836,4161,Garcia Ltd,Secured global success,5600.0,5476.0,failed,137,DK,DKK,2020-12-13,2021-04-14,cat2,subcat17
-467,3219,"Roberts, Hinton and Williams",Programmable static middleware,35000.0,177936.0,successful,3016,US,USD,2020-07-04,2021-03-31,cat2,subcat17
-1277,2344,Marquez-Kerr,Automated hybrid orchestration,15800.0,83267.0,successful,980,US,USD,2021-04-01,2022-01-01,cat2,subcat17
-2663,2093,Lutz Group,Enterprise-wide foreground paradigm,2700.0,1012.0,failed,12,IT,EUR,2020-09-07,2021-07-05,cat2,subcat17
-1057,2034,"Wright, Brooks and Villarreal",Reverse-engineered bifurcated strategy,6600.0,11746.0,successful,131,US,USD,2021-09-29,2021-11-29,cat2,subcat18
-1556,3571,Collins-Goodman,Cross-platform even-keeled initiative,1400.0,9253.0,successful,88,US,USD,2020-05-11,2021-03-09,cat2,subcat18
-2110,2785,Daniel-Luna,Mandatory multimedia leverage,75000.0,2529.0,failed,40,US,USD,2020-10-20,2021-01-17,cat2,subcat18
-647,6217,Cole LLC,Proactive responsive emulation,111900.0,85902.0,failed,3182,IT,EUR,2021-08-07,2022-01-13,cat2,subcat18
-2314,5136,Shannon Ltd,Pre-emptive neutral capacity,100.0,5.0,failed,1,US,USD,2021-01-19,2021-07-25,cat2,subcat18
-308,2290,"Owens, Hall and Gonzalez",De-engineered static orchestration,62800.0,143788.0,successful,3059,CA,CAD,2020-11-19,2021-08-28,cat2,subcat18
-2349,5490,King-Nguyen,Open-source incremental throughput,1300.0,13678.0,successful,249,US,USD,2021-06-25,2021-10-01,cat2,subcat18
-2371,2996,Stevens Inc,Adaptive 24hour projection,8200.0,1546.0,canceled,37,US,USD,2021-10-08,2021-11-27,cat2,subcat18
-1423,4556,Franklin Inc,Focused multimedia knowledgebase,6200.0,6269.0,successful,87,US,USD,2020-05-01,2021-04-13,cat2,subcat18
-569,4869,Johnson Group,Compatible full-range leverage,3900.0,11075.0,successful,316,US,USD,2021-02-28,2021-05-08,cat2,subcat18
-1805,3418,"Wilson, Wilson and Mathis",Optional asymmetric success,100.0,2.0,failed,1,US,USD,2021-06-11,2021-10-26,cat2,subcat18
-2747,4073,Smith Group,Right-sized secondary challenge,106800.0,57872.0,failed,752,DK,DKK,2021-08-27,2021-12-19,cat2,subcat18
-3129,2623,Young PLC,Optional maximized attitude,79400.0,26571.0,failed,1063,US,USD,2020-05-20,2021-02-06,cat2,subcat18
-2089,2059,Davis Ltd,Upgradable uniform service-desk,3500.0,6204.0,successful,100,AU,AUD,2021-04-22,2021-07-19,cat2,subcat18
-2504,4178,Smith-Brown,Object-based content-based ability,1500.0,10946.0,successful,207,IT,EUR,2020-12-01,2021-07-19,cat2,subcat18
-2575,1717,Cook-Ortiz,Right-sized dedicated standardization,17700.0,150960.0,successful,1797,US,USD,2021-06-11,2021-08-22,cat2,subcat18
-2444,2141,Best-Young,Implemented multimedia time-frame,3100.0,12620.0,successful,123,CH,CHF,2020-08-19,2021-06-02,cat2,subcat18
-2107,5445,Gates PLC,Secured content-based product,4500.0,13985.0,successful,159,US,USD,2020-07-09,2021-05-18,cat2,subcat22
-1381,5921,Soto-Anthony,Ameliorated logistical capability,51400.0,90440.0,successful,2261,US,USD,2020-10-13,2021-02-22,cat2,subcat22
-2040,4467,Howard-Douglas,Organized human-resource attitude,88400.0,121138.0,successful,1573,US,USD,2020-09-22,2021-04-06,cat2,subcat22
 1812,4187,"Melton, Robinson and Fritz",Function-based leadingedge pricing structure,108400.0,142523.0,successful,1425,AU,AUD,2020-12-17,2021-12-30,cat3,subcat3
 1969,3325,Sparks-West,Organized incremental standardization,2000.0,14452.0,successful,249,US,USD,2021-08-19,2021-11-21,cat3,subcat3
 1291,4995,Mosley-Gilbert,Vision-oriented logistical intranet,2800.0,2734.0,failed,38,US,USD,2021-05-21,2021-09-23,cat3,subcat3
@@ -271,51 +181,6 @@ cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,cou
 923,3850,Robbins Group,Function-based interactive matrix,5500.0,4678.0,failed,55,US,USD,2021-02-04,2021-03-07,cat3,subcat3
 1593,4519,"Sellers, Roach and Garrison",Multi-tiered systematic knowledge user,42700.0,97524.0,successful,1681,US,USD,2020-12-18,2021-03-15,cat3,subcat3
 2028,5219,Diaz-Little,Grass-roots executive synergy,6700.0,11941.0,successful,323,US,USD,2021-06-26,2021-07-10,cat3,subcat3
-505,4495,"Wright, Hunt and Rowe",Extended eco-centric pricing structure,81200.0,38414.0,failed,452,US,USD,2021-10-25,2021-12-16,cat3,subcat9
-1019,3605,"Scott, Wilson and Martin",Cross-platform intermediate frame,92400.0,104257.0,successful,2673,US,USD,2021-05-01,2021-10-01,cat3,subcat9
-462,2265,"Garcia, Garcia and Lopez",Reduced stable middleware,8800.0,14878.0,successful,198,US,USD,2020-11-18,2021-03-18,cat3,subcat9
-1213,1664,"Bradshaw, Gill and Donovan",Inverse secondary infrastructure,158100.0,145243.0,failed,1467,GB,GBP,2020-09-07,2021-07-29,cat3,subcat9
-2101,4248,Roy PLC,Multi-channeled neutral customer loyalty,6000.0,5392.0,failed,120,US,USD,2021-03-30,2021-05-24,cat3,subcat9
-2655,4085,"Flores, Miller and Johnson",Horizontal context-sensitive knowledge user,8000.0,11493.0,successful,164,US,USD,2021-03-03,2021-05-22,cat3,subcat9
-1363,3126,Lopez Inc,Team-oriented 6thgeneration middleware,72600.0,117892.0,successful,4065,GB,GBP,2020-11-03,2021-09-24,cat3,subcat9
-2480,3251,Cisneros-Burton,Public-key zero tolerance orchestration,31400.0,41564.0,successful,374,US,USD,2021-07-03,2021-10-05,cat3,subcat9
-3088,5150,Garcia Inc,Front-line web-enabled model,3700.0,10422.0,successful,336,US,USD,2020-09-18,2021-08-18,cat3,subcat9
-2431,5288,Harper-Davis,Robust heuristic encoding,1900.0,13816.0,successful,126,US,USD,2021-07-02,2021-12-31,cat3,subcat9
-698,3096,"Hamilton, Wright and Chavez",Down-sized empowering protocol,92100.0,19246.0,failed,326,US,USD,2021-01-14,2021-07-07,cat3,subcat9
-1882,1656,Fields-Moore,Secured reciprocal array,25000.0,59128.0,successful,768,CH,CHF,2021-01-28,2021-11-21,cat3,subcat9
-2198,5629,"White, Larson and Wright",Upgradable hybrid capability,9300.0,11255.0,successful,107,US,USD,2020-04-19,2021-02-15,cat3,subcat9
-3024,1763,Evans Group,Stand-alone actuating support,8000.0,12985.0,successful,164,US,USD,2021-04-26,2021-07-14,cat3,subcat9
-1130,3983,"Santos, Black and Donovan",Pre-emptive scalable access,600.0,5368.0,successful,48,US,USD,2020-04-15,2021-02-08,cat3,subcat9
-2563,3691,"Olsen, Edwards and Reid",Optional clear-thinking software,56000.0,172736.0,successful,2107,AU,AUD,2020-10-09,2021-06-06,cat3,subcat9
-1834,1268,King Inc,Organic bandwidth-monitored frame,8200.0,5178.0,failed,100,DK,DKK,2020-08-06,2021-08-30,cat3,subcat9
-2556,4464,Mason-Sanders,Networked web-enabled instruction set,3200.0,3127.0,failed,41,US,USD,2021-04-12,2021-12-03,cat3,subcat9
-1732,5675,"Pacheco, Johnson and Torres",Optional bandwidth-monitored definition,20700.0,41396.0,successful,470,US,USD,2020-07-30,2021-03-22,cat3,subcat9
-948,4025,Burns-Burnett,Front-line scalable definition,3800.0,2241.0,live,86,US,USD,2020-08-28,2021-05-19,cat3,subcat9
-2808,4102,Flores-Lambert,Triple-buffered logistical frame,109000.0,42795.0,failed,424,US,USD,2021-07-18,2021-10-05,cat3,subcat9
-2141,3365,Hernandez-Grimes,Profit-focused zero administration forecast,102900.0,67546.0,failed,1608,US,USD,2021-01-07,2021-05-08,cat3,subcat9
-298,4439,Thomas-Lopez,User-centric fault-tolerant archive,9400.0,6015.0,failed,118,US,USD,2020-12-24,2021-03-18,cat3,subcat9
-2403,1244,Rodriguez-West,Automated optimal function,7000.0,1744.0,failed,32,US,USD,2020-09-24,2021-04-09,cat3,subcat9
-1136,5487,"Martin, Martin and Solis",Assimilated uniform methodology,6800.0,5579.0,failed,186,US,USD,2020-05-11,2021-03-29,cat3,subcat9
-586,1810,Obrien and Sons,Pre-emptive transitional frame,1200.0,3984.0,successful,42,US,USD,2021-04-16,2021-08-18,cat3,subcat9
-470,5771,"Grimes, Holland and Sloan",Extended dedicated archive,3600.0,10289.0,successful,381,US,USD,2021-04-16,2021-10-13,cat3,subcat9
-2806,2150,Lyons LLC,Balanced impactful circuit,68800.0,162603.0,successful,2756,US,USD,2020-09-12,2021-04-13,cat3,subcat9
-2322,4003,Clark Inc,Down-sized mobile time-frame,9200.0,9339.0,successful,85,IT,EUR,2021-06-07,2021-09-06,cat3,subcat9
-302,1865,Hopkins-Browning,Balanced upward-trending productivity,2500.0,13684.0,successful,268,US,USD,2020-05-30,2021-06-13,cat3,subcat9
-2310,2942,Lucero Group,Intuitive actuating benchmark,9800.0,3349.0,failed,120,US,USD,2020-07-14,2021-03-26,cat3,subcat9
-400,2594,"Greene, Lloyd and Sims",Balanced leadingedge data-warehouse,2100.0,1768.0,failed,63,US,USD,2021-05-01,2021-09-02,cat3,subcat9
-3187,4356,Jarvis and Sons,Business-focused intermediate system engine,29500.0,83843.0,successful,762,US,USD,2021-05-21,2021-07-20,cat3,subcat9
-2509,2188,Waters and Sons,Inverse neutral structure,6300.0,13018.0,successful,194,US,USD,2021-08-12,2022-01-16,cat3,subcat9
-2785,2430,"Ramos, Moreno and Lewis",Extended multi-state knowledge user,9200.0,13382.0,successful,129,CA,CAD,2021-02-13,2021-10-21,cat3,subcat9
-3027,4427,"Jones, Wiley and Robbins",Front-line cohesive extranet,7500.0,14381.0,successful,134,US,USD,2020-11-01,2021-10-22,cat3,subcat9
-1656,1879,"Taylor, Wood and Taylor",Cloned hybrid focus group,42100.0,188057.0,successful,2893,CA,CAD,2020-07-15,2021-03-11,cat3,subcat9
-649,4561,"Cole, Petty and Cameron",Realigned zero administration paradigm,100.0,3.0,failed,1,US,USD,2020-08-12,2021-04-17,cat3,subcat9
-33,5871,Sims-Gross,Object-based attitude-oriented analyzer,8700.0,4710.0,failed,83,US,USD,2021-03-05,2021-03-27,cat3,subcat9
-113,3336,Reyes PLC,Expanded optimal pricing structure,8300.0,8317.0,successful,297,US,USD,2020-09-13,2021-04-30,cat3,subcat9
-1649,5580,Carson PLC,Visionary system-worthy attitude,28800.0,118847.0,successful,1071,CA,CAD,2021-09-05,2022-02-22,cat3,subcat9
-971,3016,"Hill, Mccann and Moore",Streamlined needs-based knowledge user,6900.0,2091.0,failed,34,US,USD,2020-07-21,2021-06-11,cat3,subcat9
-1111,3199,Hunter-Logan,Down-sized needs-based task-force,8600.0,13527.0,successful,366,IT,EUR,2020-08-20,2021-04-08,cat3,subcat9
-725,6144,Lawson and Sons,Reverse-engineered multi-tasking product,1500.0,8447.0,successful,132,IT,EUR,2021-03-21,2021-05-25,cat3,subcat9
-1526,6155,Lee PLC,Re-contextualized leadingedge firmware,2000.0,5033.0,successful,65,US,USD,2021-02-02,2021-09-17,cat3,subcat9
 1365,2199,Larson-Little,Proactive foreground core,7600.0,5265.0,failed,53,US,USD,2020-12-21,2021-08-23,cat4,subcat4
 2057,5650,Harris Group,Open-source optimizing database,7600.0,13195.0,successful,174,DK,DKK,2020-12-11,2021-08-29,cat4,subcat4
 2669,4842,Carter-Guzman,Centralized cohesive challenge,4500.0,14741.0,successful,227,DK,DKK,2020-12-22,2021-09-21,cat4,subcat4
@@ -720,6 +585,24 @@ cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,cou
 1521,4997,Freeman-French,Multi-layered optimal application,7200.0,6115.0,failed,75,US,USD,2020-02-21,2021-02-23,cat5,subcat5
 2780,2239,Beck-Weber,Business-focused full-range core,129100.0,188404.0,successful,2326,US,USD,2021-06-22,2021-12-17,cat5,subcat5
 3184,5242,Wilson Group,Ameliorated foreground focus group,6200.0,13441.0,successful,480,US,USD,2020-07-18,2021-03-28,cat5,subcat5
+970,5468,"Rangel, Holt and Jones",Open-source fresh-thinking model,6200.0,3208.0,failed,44,US,USD,2021-08-13,2021-08-31,cat2,subcat6
+1239,6181,Fitzgerald PLC,Realigned user-facing concept,106400.0,39996.0,failed,1000,US,USD,2021-06-25,2021-08-08,cat2,subcat6
+253,5755,Douglas LLC,Reduced heuristic moratorium,900.0,9193.0,successful,164,US,USD,2021-10-06,2022-01-27,cat2,subcat6
+393,4181,"Frye, Hunt and Powell",Polarized incremental emulation,10000.0,2461.0,failed,37,IT,EUR,2021-05-10,2021-08-03,cat2,subcat6
+1090,2277,Parker LLC,Customizable intermediate extranet,137200.0,88037.0,failed,1467,US,USD,2021-12-02,2022-01-12,cat2,subcat6
+2536,2974,Smith and Sons,Upgradable high-level solution,15800.0,57157.0,successful,524,US,USD,2021-02-02,2021-12-15,cat2,subcat6
+3039,5066,Palmer Inc,Universal multi-state capability,63200.0,6041.0,failed,168,US,USD,2021-04-05,2021-07-05,cat2,subcat6
+2685,5773,Ferguson PLC,Public-key intangible superstructure,6300.0,13213.0,successful,176,US,USD,2020-10-03,2021-02-19,cat2,subcat6
+1401,4263,Richardson Inc,Assimilated fault-tolerant capacity,5000.0,8907.0,successful,106,US,USD,2021-02-21,2021-08-15,cat2,subcat6
+810,2269,Webb-Smith,Advanced content-based installation,9300.0,4124.0,failed,37,US,USD,2021-09-04,2021-11-29,cat2,subcat6
+179,2133,"Wang, Nguyen and Horton",Innovative holistic hub,6200.0,8645.0,successful,192,US,USD,2021-09-10,2021-11-05,cat2,subcat6
+1659,1373,Fox-Williams,Profound system-worthy functionalities,128900.0,196960.0,successful,7295,US,USD,2021-12-15,2022-01-13,cat2,subcat6
+2182,1979,West-Stevens,Reactive solution-oriented groupware,1200.0,13513.0,successful,122,US,USD,2021-03-30,2021-07-15,cat2,subcat6
+985,2184,Ramos and Sons,Extended responsive Internet solution,100.0,1.0,failed,1,GB,GBP,2021-06-11,2021-06-28,cat2,subcat6
+1519,3842,Rodriguez PLC,Grass-roots upward-trending installation,167500.0,114615.0,failed,1274,US,USD,2020-01-19,2021-03-14,cat2,subcat6
+2004,3606,Bright and Sons,Object-based needs-based info-mediaries,6000.0,12468.0,successful,160,US,USD,2021-10-23,2021-11-20,cat2,subcat6
+733,5139,"Craig, Ellis and Miller",Persevering 5thgeneration throughput,84500.0,193101.0,successful,2414,US,USD,2021-01-11,2021-06-17,cat2,subcat6
+2394,6234,Santos Group,Secured dynamic capacity,5600.0,9508.0,successful,122,US,USD,2020-12-13,2021-04-30,cat2,subcat6
 2340,3064,Green Ltd,Monitored empowering installation,5200.0,13838.0,successful,220,US,USD,2020-07-11,2021-08-02,cat5,subcat7
 1950,1299,Kim Ltd,Assimilated hybrid intranet,6300.0,5629.0,failed,55,US,USD,2020-11-14,2021-04-09,cat5,subcat7
 118,2900,"Reeves, Thompson and Richardson",Proactive composite alliance,131800.0,147936.0,successful,1396,US,USD,2020-04-12,2021-04-09,cat5,subcat7
@@ -757,6 +640,117 @@ cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,cou
 218,3506,Rivera-Pearson,Re-engineered asymmetric challenge,70200.0,35536.0,failed,523,AU,AUD,2021-02-21,2021-03-13,cat5,subcat7
 1561,5500,Ortiz-Roberts,Devolved foreground customer loyalty,7800.0,6839.0,failed,64,US,USD,2021-06-09,2021-06-18,cat5,subcat7
 439,3924,Morrow Inc,Networked global migration,3100.0,13223.0,successful,132,US,USD,2020-06-14,2021-02-09,cat5,subcat7
+671,5602,"Walker, Taylor and Coleman",Multi-tiered directional open architecture,4200.0,10295.0,successful,98,US,USD,2020-11-11,2021-11-06,cat2,subcat8
+1683,5753,"Rodriguez, Rose and Stewart",Cloned directional synergy,28200.0,18829.0,failed,200,US,USD,2021-11-14,2022-01-02,cat2,subcat8
+2181,3443,"Hill, Lawson and Wilkinson",Multi-tiered eco-centric architecture,4900.0,6430.0,successful,71,AU,AUD,2021-05-29,2021-08-20,cat2,subcat8
+2912,3006,"Smith, Wells and Nguyen",Self-enabling grid-enabled initiative,119200.0,170623.0,successful,1917,US,USD,2021-07-09,2021-10-15,cat2,subcat8
+2465,5251,Avila-Jones,Implemented discrete secured line,5400.0,7322.0,successful,70,US,USD,2020-12-03,2021-11-25,cat2,subcat8
+2757,3456,"Payne, Oliver and Burch",Managed fresh-thinking flexibility,6200.0,13632.0,successful,195,US,USD,2020-09-08,2021-04-16,cat2,subcat8
+64,1276,"Bowen, Mcdonald and Hall",User-centric fault-tolerant task-force,41500.0,175573.0,successful,3376,US,USD,2020-11-13,2021-07-23,cat2,subcat8
+625,2260,Rodriguez-Brown,Devolved foreground benchmark,171300.0,100650.0,failed,1059,US,USD,2021-01-29,2021-06-20,cat2,subcat8
+2915,3567,Hernandez Group,Ergonomic uniform open system,128100.0,40107.0,failed,955,DK,DKK,2020-05-16,2021-03-18,cat2,subcat8
+1458,2114,"Summers, Gallegos and Stein",Mandatory mobile product,188100.0,5528.0,failed,67,US,USD,2020-09-24,2021-07-27,cat2,subcat8
+3195,3963,"Calhoun, Rogers and Long",Progressive discrete hub,6600.0,3012.0,failed,65,US,USD,2020-04-25,2021-03-22,cat2,subcat8
+2691,2969,Morgan-Warren,Face-to-face encompassing info-mediaries,87900.0,171549.0,successful,4289,US,USD,2020-12-20,2021-07-30,cat2,subcat8
+735,2761,"Lloyd, Kennedy and Davis",Compatible multimedia hub,1700.0,5328.0,successful,107,US,USD,2021-02-27,2021-10-02,cat2,subcat8
+3168,1302,"Guerrero, Flores and Jenkins",Networked optimal architecture,3400.0,2809.0,failed,32,US,USD,2021-01-12,2021-12-22,cat2,subcat8
+2545,4328,Harris-Perry,User-centric 6thgeneration attitude,4100.0,3087.0,canceled,75,US,USD,2021-03-05,2021-07-26,cat2,subcat8
+80,4594,Guzman Group,Ameliorated disintermediate utilization,114300.0,96777.0,failed,1257,US,USD,2021-02-10,2021-09-22,cat2,subcat8
+116,5810,Little-Marsh,Virtual attitude-oriented migration,8000.0,2758.0,failed,25,US,USD,2021-10-07,2021-12-28,cat2,subcat8
+2087,2017,Ramirez-Myers,Switchable intangible definition,900.0,14547.0,successful,186,US,USD,2020-11-25,2021-10-16,cat2,subcat8
+1409,3331,Leblanc-Pineda,Future-proofed upward-trending contingency,2700.0,1479.0,failed,25,US,USD,2021-08-13,2021-11-21,cat2,subcat8
+764,6089,Cruz Ltd,Exclusive dynamic adapter,114800.0,12938.0,canceled,145,CH,CHF,2020-06-26,2021-03-09,cat2,subcat8
+1635,2383,"Acosta, Mullins and Morris",Pre-emptive interactive model,97300.0,62127.0,failed,941,US,USD,2021-05-28,2021-07-01,cat2,subcat8
+1653,1419,Schmidt-Gomez,User-centric impactful projection,5100.0,2064.0,failed,83,US,USD,2021-06-02,2021-09-04,cat2,subcat8
+3158,4952,Hensley Ltd,Versatile global attitude,6200.0,10938.0,successful,296,US,USD,2020-10-28,2021-02-27,cat2,subcat8
+1646,4765,"Wilson, Brooks and Clark",Operative well-modulated data-warehouse,146400.0,152438.0,successful,1605,US,USD,2021-11-14,2021-12-14,cat2,subcat8
+726,2228,"Avila, Ford and Welch",Focused leadingedge matrix,9000.0,7227.0,failed,80,GB,GBP,2020-05-24,2021-05-26,cat2,subcat8
+2082,2077,"Holt, Bernard and Johnson",Multi-lateral didactic encoding,115600.0,184086.0,successful,2218,GB,GBP,2021-01-04,2021-04-11,cat2,subcat8
+1807,3012,Harrison-Bridges,Profit-focused exuding moderator,77000.0,1930.0,failed,49,GB,GBP,2021-03-04,2021-09-21,cat2,subcat8
+1436,6196,Morrison-Henderson,De-engineered disintermediate encoding,100.0,4.0,canceled,1,CH,CHF,2021-06-18,2021-11-12,cat2,subcat8
+2704,1968,Ritter PLC,Multi-channeled upward-trending application,9500.0,14408.0,successful,554,CA,CAD,2020-12-25,2021-07-12,cat2,subcat8
+68,3879,Burnett-Mora,Quality-focused 24/7 superstructure,6400.0,12129.0,successful,238,GB,GBP,2020-09-06,2021-08-01,cat2,subcat8
+1260,1563,Smith-Smith,Total leadingedge neural-net,189000.0,5916.0,failed,64,US,USD,2021-03-10,2021-05-26,cat2,subcat8
+2929,2632,"Dunn, Moreno and Green",Intuitive object-oriented task-force,1900.0,2884.0,successful,96,US,USD,2021-02-23,2021-02-28,cat2,subcat8
+255,1334,Robinson Group,Re-contextualized homogeneous flexibility,16200.0,75955.0,successful,1101,US,USD,2020-07-03,2021-05-18,cat2,subcat8
+842,1639,"Turner, Scott and Gentry",Assimilated regional groupware,5600.0,2445.0,failed,58,IT,EUR,2021-03-31,2021-12-04,cat2,subcat8
+2392,4020,Gardner Inc,Function-based systematic Graphical User Interface,3700.0,5028.0,successful,180,US,USD,2021-07-22,2022-01-03,cat2,subcat8
+1699,2790,Meyer-Avila,Multi-tiered discrete support,10000.0,6100.0,failed,191,US,USD,2020-12-02,2021-05-28,cat2,subcat8
+335,4789,Matthews LLC,Advanced transitional help-desk,3900.0,8125.0,successful,198,US,USD,2020-09-05,2021-04-21,cat2,subcat8
+2711,1620,Johnson-Pace,Persistent 3rdgeneration moratorium,149600.0,169586.0,successful,5139,US,USD,2021-07-10,2022-01-12,cat2,subcat8
+1169,5779,Macias Inc,Optimized didactic intranet,8100.0,6086.0,failed,94,US,USD,2020-09-02,2021-08-06,cat2,subcat8
+342,4533,Jones-Ryan,Vision-oriented uniform instruction set,6700.0,8917.0,successful,307,US,USD,2021-03-27,2021-10-09,cat2,subcat8
+3061,2222,Collier LLC,Secured well-modulated projection,17100.0,111502.0,successful,1467,CA,CAD,2020-09-09,2021-09-05,cat2,subcat8
+1336,3928,Sanders LLC,Multi-tiered explicit focus group,150600.0,127745.0,failed,1825,US,USD,2021-02-01,2022-01-16,cat2,subcat8
+1062,1422,"Christian, Kim and Jimenez",Devolved foreground throughput,134400.0,155849.0,successful,1470,US,USD,2021-07-11,2021-09-17,cat2,subcat8
+2250,3057,"Thomas, Clay and Mendoza",Multi-channeled reciprocal interface,800.0,2991.0,successful,32,US,USD,2020-05-13,2021-03-06,cat2,subcat8
+2175,6073,"Taylor, Santiago and Flores",Polarized composite customer loyalty,66600.0,37823.0,failed,374,US,USD,2020-10-08,2021-04-11,cat2,subcat8
+505,4495,"Wright, Hunt and Rowe",Extended eco-centric pricing structure,81200.0,38414.0,failed,452,US,USD,2021-10-25,2021-12-16,cat3,subcat9
+1019,3605,"Scott, Wilson and Martin",Cross-platform intermediate frame,92400.0,104257.0,successful,2673,US,USD,2021-05-01,2021-10-01,cat3,subcat9
+462,2265,"Garcia, Garcia and Lopez",Reduced stable middleware,8800.0,14878.0,successful,198,US,USD,2020-11-18,2021-03-18,cat3,subcat9
+1213,1664,"Bradshaw, Gill and Donovan",Inverse secondary infrastructure,158100.0,145243.0,failed,1467,GB,GBP,2020-09-07,2021-07-29,cat3,subcat9
+2101,4248,Roy PLC,Multi-channeled neutral customer loyalty,6000.0,5392.0,failed,120,US,USD,2021-03-30,2021-05-24,cat3,subcat9
+2655,4085,"Flores, Miller and Johnson",Horizontal context-sensitive knowledge user,8000.0,11493.0,successful,164,US,USD,2021-03-03,2021-05-22,cat3,subcat9
+1363,3126,Lopez Inc,Team-oriented 6thgeneration middleware,72600.0,117892.0,successful,4065,GB,GBP,2020-11-03,2021-09-24,cat3,subcat9
+2480,3251,Cisneros-Burton,Public-key zero tolerance orchestration,31400.0,41564.0,successful,374,US,USD,2021-07-03,2021-10-05,cat3,subcat9
+3088,5150,Garcia Inc,Front-line web-enabled model,3700.0,10422.0,successful,336,US,USD,2020-09-18,2021-08-18,cat3,subcat9
+2431,5288,Harper-Davis,Robust heuristic encoding,1900.0,13816.0,successful,126,US,USD,2021-07-02,2021-12-31,cat3,subcat9
+698,3096,"Hamilton, Wright and Chavez",Down-sized empowering protocol,92100.0,19246.0,failed,326,US,USD,2021-01-14,2021-07-07,cat3,subcat9
+1882,1656,Fields-Moore,Secured reciprocal array,25000.0,59128.0,successful,768,CH,CHF,2021-01-28,2021-11-21,cat3,subcat9
+2198,5629,"White, Larson and Wright",Upgradable hybrid capability,9300.0,11255.0,successful,107,US,USD,2020-04-19,2021-02-15,cat3,subcat9
+3024,1763,Evans Group,Stand-alone actuating support,8000.0,12985.0,successful,164,US,USD,2021-04-26,2021-07-14,cat3,subcat9
+1130,3983,"Santos, Black and Donovan",Pre-emptive scalable access,600.0,5368.0,successful,48,US,USD,2020-04-15,2021-02-08,cat3,subcat9
+2563,3691,"Olsen, Edwards and Reid",Optional clear-thinking software,56000.0,172736.0,successful,2107,AU,AUD,2020-10-09,2021-06-06,cat3,subcat9
+1834,1268,King Inc,Organic bandwidth-monitored frame,8200.0,5178.0,failed,100,DK,DKK,2020-08-06,2021-08-30,cat3,subcat9
+2556,4464,Mason-Sanders,Networked web-enabled instruction set,3200.0,3127.0,failed,41,US,USD,2021-04-12,2021-12-03,cat3,subcat9
+1732,5675,"Pacheco, Johnson and Torres",Optional bandwidth-monitored definition,20700.0,41396.0,successful,470,US,USD,2020-07-30,2021-03-22,cat3,subcat9
+948,4025,Burns-Burnett,Front-line scalable definition,3800.0,2241.0,live,86,US,USD,2020-08-28,2021-05-19,cat3,subcat9
+2808,4102,Flores-Lambert,Triple-buffered logistical frame,109000.0,42795.0,failed,424,US,USD,2021-07-18,2021-10-05,cat3,subcat9
+2141,3365,Hernandez-Grimes,Profit-focused zero administration forecast,102900.0,67546.0,failed,1608,US,USD,2021-01-07,2021-05-08,cat3,subcat9
+298,4439,Thomas-Lopez,User-centric fault-tolerant archive,9400.0,6015.0,failed,118,US,USD,2020-12-24,2021-03-18,cat3,subcat9
+2403,1244,Rodriguez-West,Automated optimal function,7000.0,1744.0,failed,32,US,USD,2020-09-24,2021-04-09,cat3,subcat9
+1136,5487,"Martin, Martin and Solis",Assimilated uniform methodology,6800.0,5579.0,failed,186,US,USD,2020-05-11,2021-03-29,cat3,subcat9
+586,1810,Obrien and Sons,Pre-emptive transitional frame,1200.0,3984.0,successful,42,US,USD,2021-04-16,2021-08-18,cat3,subcat9
+470,5771,"Grimes, Holland and Sloan",Extended dedicated archive,3600.0,10289.0,successful,381,US,USD,2021-04-16,2021-10-13,cat3,subcat9
+2806,2150,Lyons LLC,Balanced impactful circuit,68800.0,162603.0,successful,2756,US,USD,2020-09-12,2021-04-13,cat3,subcat9
+2322,4003,Clark Inc,Down-sized mobile time-frame,9200.0,9339.0,successful,85,IT,EUR,2021-06-07,2021-09-06,cat3,subcat9
+302,1865,Hopkins-Browning,Balanced upward-trending productivity,2500.0,13684.0,successful,268,US,USD,2020-05-30,2021-06-13,cat3,subcat9
+2310,2942,Lucero Group,Intuitive actuating benchmark,9800.0,3349.0,failed,120,US,USD,2020-07-14,2021-03-26,cat3,subcat9
+400,2594,"Greene, Lloyd and Sims",Balanced leadingedge data-warehouse,2100.0,1768.0,failed,63,US,USD,2021-05-01,2021-09-02,cat3,subcat9
+3187,4356,Jarvis and Sons,Business-focused intermediate system engine,29500.0,83843.0,successful,762,US,USD,2021-05-21,2021-07-20,cat3,subcat9
+2509,2188,Waters and Sons,Inverse neutral structure,6300.0,13018.0,successful,194,US,USD,2021-08-12,2022-01-16,cat3,subcat9
+2785,2430,"Ramos, Moreno and Lewis",Extended multi-state knowledge user,9200.0,13382.0,successful,129,CA,CAD,2021-02-13,2021-10-21,cat3,subcat9
+3027,4427,"Jones, Wiley and Robbins",Front-line cohesive extranet,7500.0,14381.0,successful,134,US,USD,2020-11-01,2021-10-22,cat3,subcat9
+1656,1879,"Taylor, Wood and Taylor",Cloned hybrid focus group,42100.0,188057.0,successful,2893,CA,CAD,2020-07-15,2021-03-11,cat3,subcat9
+649,4561,"Cole, Petty and Cameron",Realigned zero administration paradigm,100.0,3.0,failed,1,US,USD,2020-08-12,2021-04-17,cat3,subcat9
+33,5871,Sims-Gross,Object-based attitude-oriented analyzer,8700.0,4710.0,failed,83,US,USD,2021-03-05,2021-03-27,cat3,subcat9
+113,3336,Reyes PLC,Expanded optimal pricing structure,8300.0,8317.0,successful,297,US,USD,2020-09-13,2021-04-30,cat3,subcat9
+1649,5580,Carson PLC,Visionary system-worthy attitude,28800.0,118847.0,successful,1071,CA,CAD,2021-09-05,2022-02-22,cat3,subcat9
+971,3016,"Hill, Mccann and Moore",Streamlined needs-based knowledge user,6900.0,2091.0,failed,34,US,USD,2020-07-21,2021-06-11,cat3,subcat9
+1111,3199,Hunter-Logan,Down-sized needs-based task-force,8600.0,13527.0,successful,366,IT,EUR,2020-08-20,2021-04-08,cat3,subcat9
+725,6144,Lawson and Sons,Reverse-engineered multi-tasking product,1500.0,8447.0,successful,132,IT,EUR,2021-03-21,2021-05-25,cat3,subcat9
+1526,6155,Lee PLC,Re-contextualized leadingedge firmware,2000.0,5033.0,successful,65,US,USD,2021-02-02,2021-09-17,cat3,subcat9
+1245,4269,Hines Inc,Cross-platform systemic adapter,1700.0,11041.0,successful,100,US,USD,2021-08-20,2021-12-22,cat6,subcat10
+2713,1501,Hudson-Nguyen,Down-sized disintermediate support,1800.0,4712.0,successful,50,US,USD,2020-04-07,2021-02-14,cat6,subcat10
+2497,1669,Gonzalez-Martinez,Vision-oriented actuating open system,168500.0,171729.0,successful,1684,AU,AUD,2021-01-17,2021-07-23,cat6,subcat10
+1034,4165,Barry Group,De-engineered static Local Area Network,4600.0,8505.0,successful,88,US,USD,2021-06-24,2021-08-28,cat6,subcat10
+2423,5559,Cooke PLC,Focused executive core,100.0,5.0,failed,1,DK,DKK,2020-12-05,2021-09-25,cat6,subcat10
+521,3618,Warren-Harrison,Programmable incremental knowledge user,38900.0,56859.0,successful,1137,US,USD,2020-04-20,2021-01-21,cat6,subcat10
+2901,4499,Miller-Patel,Mandatory uniform strategy,60400.0,4393.0,failed,151,US,USD,2021-11-21,2021-12-19,cat6,subcat10
+1831,5470,Morales-Odonnell,Exclusive 5thgeneration structure,125400.0,53324.0,failed,846,US,USD,2020-09-03,2021-02-15,cat6,subcat10
+291,1847,"Ortiz, Valenzuela and Collins",Profound solution-oriented matrix,3300.0,6178.0,successful,107,US,USD,2021-01-04,2021-07-28,cat6,subcat10
+2489,2272,Miller Ltd,Open-architected mobile emulation,198600.0,97037.0,failed,1198,US,USD,2020-11-10,2021-10-30,cat6,subcat10
+397,1877,Gilmore LLC,Optimized systemic algorithm,1400.0,7600.0,successful,110,CA,CAD,2020-12-09,2021-07-17,cat6,subcat10
+2093,3999,Ford LLC,Centralized tangible success,169700.0,168048.0,failed,2025,GB,GBP,2021-08-01,2021-10-05,cat6,subcat10
+1746,5991,Silva-Hawkins,Proactive heuristic orchestration,7700.0,2533.0,canceled,29,US,USD,2020-09-21,2021-01-10,cat6,subcat10
+487,2170,Lane-Barber,Universal value-added moderator,3600.0,8363.0,successful,270,US,USD,2021-03-08,2021-07-22,cat6,subcat10
+1705,4690,"Rodriguez, Cox and Rodriguez",Networked disintermediate leverage,1100.0,13045.0,successful,181,CH,CHF,2020-06-09,2021-05-01,cat6,subcat10
+1849,4453,Landry Group,Expanded value-added hardware,59700.0,134640.0,successful,2805,CA,CAD,2020-12-17,2021-06-11,cat6,subcat10
+322,3753,Alvarez-Bauer,Front-line intermediate moderator,51300.0,189192.0,successful,2489,IT,EUR,2020-10-25,2021-04-24,cat6,subcat10
+2693,5151,"Anderson, Williams and Cox",Streamlined national benchmark,85000.0,107516.0,successful,1280,US,USD,2020-07-21,2021-03-11,cat6,subcat10
+2951,5333,Ortiz Inc,Stand-alone incremental parallelism,1000.0,5438.0,successful,53,US,USD,2021-02-27,2021-03-03,cat6,subcat10
+2510,1657,Parker-Morris,Assimilated next generation instruction set,41000.0,709.0,live,14,US,USD,2020-02-15,2021-02-23,cat6,subcat10
+423,4330,Huff-Johnson,Universal fault-tolerant orchestration,195200.0,78630.0,failed,742,US,USD,2021-03-27,2021-11-17,cat6,subcat10
 2550,2226,Cochran-Nguyen,Seamless 4thgeneration methodology,84600.0,134845.0,successful,1249,US,USD,2020-04-12,2021-03-24,cat5,subcat11
 2303,4326,Clark-Cooke,Down-sized analyzing challenge,9000.0,14455.0,successful,129,US,USD,2020-10-28,2021-02-15,cat5,subcat11
 2656,3254,"Hampton, Lewis and Ray",Seamless coherent parallelism,600.0,4022.0,successful,54,US,USD,2021-07-27,2021-11-30,cat5,subcat11
@@ -791,120 +785,6 @@ cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,cou
 3138,5713,Joyce PLC,Synchronized directional capability,3600.0,3174.0,live,31,US,USD,2020-09-25,2021-05-18,cat5,subcat11
 531,3087,"Green, Murphy and Webb",Versatile directional project,5300.0,9676.0,successful,255,US,USD,2020-09-03,2021-04-30,cat5,subcat11
 877,2803,"Green, Robinson and Ho",De-engineered zero-defect open system,1100.0,8081.0,successful,112,US,USD,2021-07-15,2021-10-04,cat5,subcat11
-1345,4242,"Johnson, Parker and Haynes",Focused 6thgeneration forecast,45900.0,150965.0,successful,1606,CH,CHF,2020-11-06,2021-08-27,cat5,subcat13
-320,5475,"Tran, Steele and Wilson",Profit-focused modular product,23300.0,98811.0,successful,1267,US,USD,2020-07-10,2021-03-23,cat5,subcat13
-1215,3482,Fox Group,Horizontal transitional paradigm,60200.0,138384.0,successful,1442,CA,CAD,2020-06-12,2021-02-20,cat5,subcat13
-817,2202,Price-Rodriguez,Adaptive logistical initiative,5700.0,12309.0,successful,397,GB,GBP,2021-02-04,2021-04-26,cat5,subcat13
-583,5409,"Mills, Frazier and Perez",Proactive attitude-oriented knowledge user,170400.0,160422.0,failed,2468,US,USD,2021-05-30,2021-09-09,cat5,subcat13
-1509,3451,"Ruiz, Richardson and Cole",Team-oriented static interface,7300.0,2946.0,failed,40,US,USD,2020-10-28,2021-04-20,cat5,subcat13
-2676,4769,Garcia Group,Persevering interactive matrix,191000.0,45831.0,canceled,595,US,USD,2020-11-07,2021-03-15,cat5,subcat13
-2021,4321,"Cline, Peterson and Lowery",Innovative static budgetary management,50500.0,16389.0,failed,191,US,USD,2021-03-12,2021-10-24,cat5,subcat13
-1473,4168,"Underwood, James and Jones",Triple-buffered holistic ability,900.0,6303.0,successful,89,US,USD,2020-08-02,2021-03-16,cat5,subcat13
-2729,3863,Wilson and Sons,Monitored grid-enabled model,3500.0,3295.0,failed,35,IT,EUR,2021-05-16,2021-10-11,cat5,subcat13
-495,5637,"Wang, Koch and Weaver",Digitized analyzing capacity,196700.0,174039.0,failed,3868,IT,EUR,2021-08-01,2021-12-27,cat5,subcat13
-1335,2134,Solomon PLC,Open-architected 24/7 infrastructure,3600.0,13950.0,successful,157,GB,GBP,2020-05-31,2021-05-13,cat5,subcat13
-499,2648,"Miranda, Gray and Hale",Programmable disintermediate matrices,5300.0,7413.0,successful,225,CH,CHF,2021-08-30,2021-12-03,cat5,subcat13
-2820,3402,Stevenson-Thompson,Automated static workforce,4200.0,14577.0,successful,150,US,USD,2021-01-25,2021-02-21,cat5,subcat13
-48,2262,Simmons-Villarreal,Customer-focused mobile Graphic Interface,3400.0,8089.0,successful,193,US,USD,2020-06-26,2021-06-10,cat5,subcat13
-2488,3916,Cooper Inc,Polarized discrete product,3600.0,2097.0,live,27,GB,GBP,2020-11-13,2021-03-21,cat5,subcat13
-1179,3486,Romero and Sons,Object-based client-server application,5200.0,3079.0,failed,60,US,USD,2020-10-01,2021-06-12,cat5,subcat20
-2300,4591,Chaney-Dennis,Business-focused 24hour groupware,4900.0,8523.0,successful,275,US,USD,2021-06-18,2021-12-31,cat5,subcat20
-2745,3233,Bailey PLC,Innovative actuating conglomeration,1000.0,718.0,failed,19,US,USD,2020-04-28,2021-03-22,cat5,subcat20
-2162,5660,Miles and Sons,Persistent attitude-oriented approach,3500.0,8842.0,successful,87,US,USD,2021-06-11,2021-06-24,cat5,subcat20
-213,4218,"Ross, Kelly and Brown",Virtual contextually-based circuit,8400.0,9076.0,successful,133,US,USD,2021-07-20,2021-08-18,cat5,subcat20
-3051,3475,Smith-Gonzalez,Polarized needs-based approach,5400.0,14743.0,successful,154,US,USD,2021-03-30,2021-06-02,cat5,subcat20
-1689,3309,Miller-Poole,Networked optimal adapter,102500.0,165954.0,successful,3131,US,USD,2020-11-04,2021-03-08,cat5,subcat20
-956,1932,Harrington-Harper,Self-enabling next generation algorithm,155200.0,37754.0,canceled,439,GB,GBP,2020-08-13,2021-06-11,cat5,subcat20
-596,5850,Santos-Young,Enhanced neutral ability,4000.0,14606.0,successful,142,US,USD,2021-02-03,2021-07-14,cat5,subcat20
-300,1786,"Harrison, Blackwell and Mendez",Synchronized 6thgeneration adapter,8300.0,3260.0,canceled,35,US,USD,2021-07-10,2021-11-02,cat5,subcat20
-1151,1907,"Taylor, Johnson and Hernandez",Polarized incremental portal,118200.0,92824.0,canceled,1658,US,USD,2021-08-29,2021-09-24,cat5,subcat20
-1484,1831,Mack Ltd,Reactive regional access,139000.0,158590.0,successful,2266,US,USD,2021-01-14,2021-02-16,cat5,subcat20
-1234,2339,"Bowen, Davies and Burns",Devolved client-server monitoring,2900.0,12449.0,successful,175,US,USD,2021-01-18,2021-08-14,cat5,subcat20
-936,4969,Davis-Johnson,Automated reciprocal protocol,1400.0,5415.0,successful,217,US,USD,2020-08-22,2021-08-03,cat5,subcat20
-267,4337,Barrett Inc,Organic cohesive neural-net,1700.0,3208.0,successful,56,GB,GBP,2020-12-05,2021-12-04,cat5,subcat20
-1873,6142,Riggs Group,Configurable upward-trending solution,125900.0,195936.0,successful,1866,GB,GBP,2021-01-30,2021-06-11,cat5,subcat20
-843,3699,Garner and Sons,Versatile neutral workforce,5100.0,1414.0,failed,24,US,USD,2020-09-17,2021-04-26,cat5,subcat20
-1369,1850,Schultz Inc,Synergistic tertiary time-frame,9400.0,6338.0,failed,226,DK,DKK,2021-01-28,2021-08-24,cat5,subcat23
-3030,2939,"Moore, Dudley and Navarro",Organic multi-tasking focus group,129400.0,57911.0,failed,934,US,USD,2021-03-09,2021-06-28,cat5,subcat23
-286,3847,Lester-Moore,Diverse analyzing definition,46300.0,186885.0,successful,3594,US,USD,2021-01-01,2021-05-30,cat5,subcat23
-1691,4754,Cummings Inc,Digitized transitional monitoring,28400.0,100900.0,successful,2293,US,USD,2020-09-22,2021-07-09,cat5,subcat23
-783,4520,Saunders Ltd,Multi-layered multi-tasking secured line,182400.0,102749.0,failed,1181,US,USD,2020-05-20,2021-03-06,cat5,subcat23
-88,5388,"Hogan, Porter and Rivera",Organic object-oriented core,8500.0,4613.0,failed,113,US,USD,2021-07-14,2021-08-23,cat5,subcat23
-1278,5203,Lam-Hamilton,Team-oriented global strategy,6000.0,11960.0,successful,221,US,USD,2021-06-14,2021-08-18,cat5,subcat23
-359,2993,Martinez-Johnson,Sharable radical toolset,96500.0,16168.0,failed,245,US,USD,2021-04-29,2021-12-14,cat5,subcat23
-50,3613,Rose-Fuller,Upgradable holistic system engine,10000.0,12042.0,successful,117,US,USD,2021-09-28,2021-10-04,cat5,subcat23
-1193,3992,"Russo, Kim and Mccoy",Balanced optimal hardware,10000.0,824.0,failed,14,US,USD,2020-11-17,2021-09-22,cat5,subcat23
-1973,2357,Montgomery-Castro,De-engineered disintermediate encryption,43800.0,13653.0,failed,248,AU,AUD,2021-01-26,2022-01-18,cat5,subcat23
-175,3264,Davis LLC,Compatible logistical paradigm,4700.0,7992.0,successful,81,AU,AUD,2021-08-22,2021-10-12,cat5,subcat23
-1994,4093,Boyle Ltd,Streamlined fault-tolerant conglomeration,3300.0,1980.0,failed,21,US,USD,2021-03-07,2021-09-06,cat5,subcat23
-1475,2813,Wood Inc,Re-engineered composite focus group,187600.0,35698.0,failed,830,US,USD,2020-08-17,2021-08-05,cat5,subcat23
-1245,4269,Hines Inc,Cross-platform systemic adapter,1700.0,11041.0,successful,100,US,USD,2021-08-20,2021-12-22,cat6,subcat10
-2713,1501,Hudson-Nguyen,Down-sized disintermediate support,1800.0,4712.0,successful,50,US,USD,2020-04-07,2021-02-14,cat6,subcat10
-2497,1669,Gonzalez-Martinez,Vision-oriented actuating open system,168500.0,171729.0,successful,1684,AU,AUD,2021-01-17,2021-07-23,cat6,subcat10
-1034,4165,Barry Group,De-engineered static Local Area Network,4600.0,8505.0,successful,88,US,USD,2021-06-24,2021-08-28,cat6,subcat10
-2423,5559,Cooke PLC,Focused executive core,100.0,5.0,failed,1,DK,DKK,2020-12-05,2021-09-25,cat6,subcat10
-521,3618,Warren-Harrison,Programmable incremental knowledge user,38900.0,56859.0,successful,1137,US,USD,2020-04-20,2021-01-21,cat6,subcat10
-2901,4499,Miller-Patel,Mandatory uniform strategy,60400.0,4393.0,failed,151,US,USD,2021-11-21,2021-12-19,cat6,subcat10
-1831,5470,Morales-Odonnell,Exclusive 5thgeneration structure,125400.0,53324.0,failed,846,US,USD,2020-09-03,2021-02-15,cat6,subcat10
-291,1847,"Ortiz, Valenzuela and Collins",Profound solution-oriented matrix,3300.0,6178.0,successful,107,US,USD,2021-01-04,2021-07-28,cat6,subcat10
-2489,2272,Miller Ltd,Open-architected mobile emulation,198600.0,97037.0,failed,1198,US,USD,2020-11-10,2021-10-30,cat6,subcat10
-397,1877,Gilmore LLC,Optimized systemic algorithm,1400.0,7600.0,successful,110,CA,CAD,2020-12-09,2021-07-17,cat6,subcat10
-2093,3999,Ford LLC,Centralized tangible success,169700.0,168048.0,failed,2025,GB,GBP,2021-08-01,2021-10-05,cat6,subcat10
-1746,5991,Silva-Hawkins,Proactive heuristic orchestration,7700.0,2533.0,canceled,29,US,USD,2020-09-21,2021-01-10,cat6,subcat10
-487,2170,Lane-Barber,Universal value-added moderator,3600.0,8363.0,successful,270,US,USD,2021-03-08,2021-07-22,cat6,subcat10
-1705,4690,"Rodriguez, Cox and Rodriguez",Networked disintermediate leverage,1100.0,13045.0,successful,181,CH,CHF,2020-06-09,2021-05-01,cat6,subcat10
-1849,4453,Landry Group,Expanded value-added hardware,59700.0,134640.0,successful,2805,CA,CAD,2020-12-17,2021-06-11,cat6,subcat10
-322,3753,Alvarez-Bauer,Front-line intermediate moderator,51300.0,189192.0,successful,2489,IT,EUR,2020-10-25,2021-04-24,cat6,subcat10
-2693,5151,"Anderson, Williams and Cox",Streamlined national benchmark,85000.0,107516.0,successful,1280,US,USD,2020-07-21,2021-03-11,cat6,subcat10
-2951,5333,Ortiz Inc,Stand-alone incremental parallelism,1000.0,5438.0,successful,53,US,USD,2021-02-27,2021-03-03,cat6,subcat10
-2510,1657,Parker-Morris,Assimilated next generation instruction set,41000.0,709.0,live,14,US,USD,2020-02-15,2021-02-23,cat6,subcat10
-423,4330,Huff-Johnson,Universal fault-tolerant orchestration,195200.0,78630.0,failed,742,US,USD,2021-03-27,2021-11-17,cat6,subcat10
-2677,4482,"Black, Armstrong and Anderson",Profound attitude-oriented functionalities,8100.0,11339.0,successful,107,US,USD,2020-11-20,2021-10-18,cat6,subcat14
-91,1294,Reid-Mccullough,Visionary real-time groupware,1600.0,10541.0,successful,98,DK,DKK,2020-11-25,2021-03-01,cat6,subcat14
-468,6026,Barrett PLC,Team-oriented clear-thinking capacity,166700.0,145382.0,failed,3304,IT,EUR,2021-03-20,2021-04-16,cat6,subcat14
-186,4034,Taylor PLC,Seamless zero-defect solution,136800.0,88055.0,failed,3387,US,USD,2020-05-21,2021-01-28,cat6,subcat14
-2893,2441,"Austin, Baker and Kelley",Fundamental grid-enabled strategy,9000.0,3496.0,canceled,57,US,USD,2021-06-04,2021-10-29,cat6,subcat14
-3162,3848,"Johnson, Patterson and Montoya",Triple-buffered fresh-thinking frame,19800.0,184658.0,successful,1884,US,USD,2020-09-20,2021-01-15,cat6,subcat14
-2065,1417,Salazar-Dodson,Face-to-face zero tolerance moderator,32900.0,43473.0,successful,659,DK,DKK,2021-03-20,2021-09-25,cat6,subcat14
-358,1249,Sandoval-Powell,Phased holistic implementation,84400.0,8092.0,failed,80,US,USD,2021-05-09,2021-08-03,cat6,subcat14
-576,4588,Rodriguez-Scott,Realigned zero tolerance software,2100.0,14046.0,successful,134,US,USD,2020-10-14,2021-01-17,cat6,subcat14
-2080,1904,Murphy PLC,Optional solution-oriented instruction set,191500.0,57122.0,failed,1120,US,USD,2021-06-26,2021-10-13,cat6,subcat14
-1987,1494,"Martin, Russell and Baker",Focused solution-oriented instruction set,4200.0,689.0,failed,9,US,USD,2021-01-21,2021-12-30,cat6,subcat14
-1652,2354,"Morrow, Santiago and Soto",Stand-alone human-resource workforce,105000.0,96328.0,failed,1784,US,USD,2021-05-05,2021-05-26,cat6,subcat14
-1451,2565,Shannon-Olson,Enhanced methodical middleware,9800.0,14697.0,successful,140,IT,EUR,2020-10-14,2021-05-30,cat6,subcat14
-2071,5124,Murphy-Fox,Organic system-worthy orchestration,5300.0,4432.0,failed,111,US,USD,2021-06-08,2021-12-27,cat6,subcat14
-2609,3305,"Pace, Simpson and Watkins",Down-sized uniform ability,6900.0,10557.0,successful,123,US,USD,2020-12-02,2021-03-22,cat6,subcat14
-559,1939,"Campbell, Thomas and Obrien",Multi-channeled secondary middleware,171000.0,194309.0,successful,2662,CA,CAD,2021-07-15,2021-10-23,cat6,subcat14
-2865,1485,Allen Inc,Total dedicated benchmark,9200.0,10093.0,successful,96,US,USD,2020-07-20,2021-04-25,cat6,subcat14
-2301,4064,Schmitt-Mendoza,Profound explicit paradigm,90200.0,167717.0,successful,6212,US,USD,2020-11-14,2021-07-06,cat6,subcat16
-2869,2849,Hart-Briggs,Re-engineered user-facing approach,61400.0,73653.0,successful,676,US,USD,2021-03-17,2021-10-27,cat6,subcat16
-1623,1372,Jensen-Vargas,Ameliorated explicit parallelism,89900.0,12497.0,failed,347,US,USD,2020-08-27,2021-04-06,cat6,subcat16
-1575,4790,Cox Group,Synergized analyzing process improvement,7100.0,5824.0,failed,86,AU,AUD,2021-01-20,2021-04-29,cat6,subcat16
-3035,2125,Mays LLC,Multi-layered global groupware,6900.0,11174.0,successful,103,US,USD,2020-03-14,2021-01-31,cat6,subcat16
-182,3651,"Rodriguez, Johnson and Jackson",Digitized foreground array,6500.0,795.0,failed,16,US,USD,2020-06-16,2021-05-25,cat6,subcat16
-2924,1687,Jones-Gonzalez,Seamless dynamic website,3800.0,9021.0,successful,156,CH,CHF,2020-06-16,2021-01-24,cat6,subcat16
-1680,5765,"Gardner, Ryan and Gutierrez",Triple-buffered multi-tasking matrices,9400.0,4899.0,failed,64,US,USD,2021-03-02,2021-09-20,cat6,subcat16
-2003,5119,"Montgomery, Larson and Spencer",User-centric bifurcated knowledge user,4500.0,13536.0,successful,330,US,USD,2020-12-24,2021-04-16,cat6,subcat19
-2821,2085,Clark Group,Grass-roots fault-tolerant policy,4800.0,12516.0,successful,113,US,USD,2020-07-21,2021-02-22,cat6,subcat19
-2791,3211,"Frazier, Patrick and Smith",Enhanced systemic analyzer,154300.0,74688.0,failed,679,IT,EUR,2020-07-03,2021-06-17,cat6,subcat19
-379,5216,Blair Group,Public-key 3rdgeneration budgetary management,4900.0,521.0,failed,5,US,USD,2020-11-17,2021-11-23,cat6,subcat19
-211,4605,Avila-Nelson,Up-sized intermediate website,61500.0,168095.0,successful,6465,US,USD,2020-03-25,2021-02-19,cat6,subcat19
-41,2583,"Ward, Sanchez and Kemp",Stand-alone discrete Graphical User Interface,3900.0,9419.0,successful,116,US,USD,2021-06-02,2021-12-31,cat6,subcat19
-387,3193,Gonzalez-Robbins,Up-sized responsive protocol,4700.0,8829.0,successful,80,US,USD,2021-04-09,2022-02-18,cat6,subcat19
-1139,5619,Nichols Ltd,Function-based attitude-oriented groupware,7400.0,8432.0,successful,211,US,USD,2021-07-02,2021-07-18,cat6,subcat19
-1730,5469,"Davis, Cox and Fox",Compatible exuding Graphical User Interface,5200.0,702.0,failed,21,GB,GBP,2021-03-28,2021-09-06,cat6,subcat19
-1056,5858,Smith and Sons,Grass-roots 24/7 attitude,5200.0,12467.0,successful,122,US,USD,2020-04-01,2021-03-01,cat6,subcat19
-2331,1628,Pugh LLC,Reactive analyzing function,8900.0,13065.0,successful,136,US,USD,2020-08-15,2021-07-04,cat6,subcat19
-917,2385,Jordan-Wolfe,Inverse multimedia Graphic Interface,4500.0,1863.0,failed,18,US,USD,2021-04-10,2021-04-25,cat6,subcat19
-195,3041,Perez Group,Cross-platform tertiary hub,63400.0,197728.0,successful,2038,US,USD,2021-05-01,2021-11-03,cat6,subcat19
-1006,1235,"Hale, Pearson and Jenkins",Upgradable attitude-oriented project,97200.0,55372.0,failed,513,US,USD,2020-12-17,2021-05-27,cat6,subcat19
-964,4804,"Bradley, Beck and Mayo",Synergized fault-tolerant hierarchy,43200.0,136156.0,successful,1297,DK,DKK,2020-10-28,2021-08-14,cat6,subcat19
-1093,5768,"Levine, Martin and Hernandez",Expanded asynchronous groupware,6800.0,10723.0,successful,165,DK,DKK,2021-02-01,2021-05-29,cat6,subcat19
-1261,5361,"Anderson, Parks and Estrada",Realigned discrete structure,6000.0,13835.0,successful,182,US,USD,2020-11-02,2021-09-04,cat6,subcat19
-2122,5508,Black-Graham,Operative hybrid utilization,145000.0,6631.0,failed,130,US,USD,2021-09-17,2021-10-03,cat6,subcat19
-1809,4220,"Mason, Case and May",Optimized content-based collaboration,5700.0,6800.0,successful,155,US,USD,2021-04-18,2021-11-16,cat6,subcat19
-2585,2185,Hernandez Inc,Versatile dedicated migration,2400.0,11990.0,successful,226,US,USD,2021-06-12,2021-08-18,cat6,subcat19
-1419,5262,"Leach, Rich and Price",Implemented bi-directional flexibility,141100.0,74073.0,failed,842,US,USD,2021-11-15,2021-12-07,cat6,subcat19
 821,4678,"Caldwell, Velazquez and Wilson",Monitored impactful analyzer,5500.0,11904.0,successful,163,US,USD,2020-10-09,2021-05-23,cat7,subcat12
 2224,5560,Schroeder Ltd,Progressive needs-based focus group,3500.0,10850.0,successful,226,GB,GBP,2020-11-25,2021-02-05,cat7,subcat12
 202,3569,"Bridges, Freeman and Kim",Cross-group multi-state task-force,2900.0,6243.0,successful,201,US,USD,2021-07-23,2021-12-04,cat7,subcat12
@@ -940,19 +820,39 @@ cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,cou
 3143,2705,Bryant-Pope,Networked intangible help-desk,38200.0,121950.0,successful,3934,US,USD,2021-02-04,2021-08-06,cat7,subcat12
 640,5343,"Williams, Johnson and Campbell",Streamlined human-resource Graphic Interface,7800.0,3839.0,failed,67,US,USD,2020-09-14,2021-04-07,cat7,subcat12
 25,4527,"Bailey, Nguyen and Martinez",Fundamental user-facing productivity,1000.0,8641.0,successful,92,US,USD,2021-08-10,2021-08-20,cat7,subcat12
-2484,5368,Vega Group,Synchronized regional synergy,75100.0,112272.0,successful,1782,US,USD,2021-04-15,2021-10-08,cat7,subcat21
-558,4351,Hogan Ltd,Stand-alone mission-critical moratorium,9600.0,9216.0,failed,115,US,USD,2021-05-10,2021-12-17,cat7,subcat21
-1599,5154,Johnson-Lee,Intuitive exuding process improvement,60900.0,102751.0,successful,943,US,USD,2020-08-07,2021-06-15,cat7,subcat21
-146,1349,Hoffman-Howard,Extended encompassing application,85600.0,165798.0,successful,2551,US,USD,2020-12-19,2021-03-10,cat7,subcat21
-1717,2619,Roberts and Sons,Streamlined holistic knowledgebase,6200.0,13103.0,successful,218,AU,AUD,2020-11-03,2021-08-02,cat7,subcat21
-1572,3290,Mcmillan Group,Advanced cohesive Graphic Interface,153700.0,55536.0,live,1111,US,USD,2021-03-22,2021-12-29,cat7,subcat21
-969,2043,Wang-Rodriguez,Total multimedia website,188800.0,57734.0,failed,535,US,USD,2021-10-13,2021-11-02,cat7,subcat21
-241,5072,"Young, Gilbert and Escobar",Networked didactic time-frame,151300.0,57034.0,failed,1296,US,USD,2020-10-11,2021-06-07,cat7,subcat21
-1010,4945,"Holder, Caldwell and Vance",Polarized systemic Internet solution,178000.0,43086.0,failed,395,IT,EUR,2020-09-17,2021-05-25,cat7,subcat21
-2600,5849,Nelson-Valdez,Open-source 4thgeneration open system,145600.0,141822.0,failed,2955,US,USD,2020-02-14,2021-04-06,cat7,subcat21
-1203,5245,"Fischer, Torres and Walker",Expanded even-keeled portal,118000.0,28870.0,failed,656,US,USD,2021-06-16,2021-08-03,cat7,subcat21
-2490,1918,Dawson-Tyler,Optional 6thgeneration access,193200.0,97369.0,failed,1596,US,USD,2020-12-08,2021-07-28,cat7,subcat21
-2098,5261,Freeman-Ferguson,Profound full-range open system,7800.0,4275.0,failed,78,US,USD,2021-02-10,2021-04-14,cat7,subcat21
+1345,4242,"Johnson, Parker and Haynes",Focused 6thgeneration forecast,45900.0,150965.0,successful,1606,CH,CHF,2020-11-06,2021-08-27,cat5,subcat13
+320,5475,"Tran, Steele and Wilson",Profit-focused modular product,23300.0,98811.0,successful,1267,US,USD,2020-07-10,2021-03-23,cat5,subcat13
+1215,3482,Fox Group,Horizontal transitional paradigm,60200.0,138384.0,successful,1442,CA,CAD,2020-06-12,2021-02-20,cat5,subcat13
+817,2202,Price-Rodriguez,Adaptive logistical initiative,5700.0,12309.0,successful,397,GB,GBP,2021-02-04,2021-04-26,cat5,subcat13
+583,5409,"Mills, Frazier and Perez",Proactive attitude-oriented knowledge user,170400.0,160422.0,failed,2468,US,USD,2021-05-30,2021-09-09,cat5,subcat13
+1509,3451,"Ruiz, Richardson and Cole",Team-oriented static interface,7300.0,2946.0,failed,40,US,USD,2020-10-28,2021-04-20,cat5,subcat13
+2676,4769,Garcia Group,Persevering interactive matrix,191000.0,45831.0,canceled,595,US,USD,2020-11-07,2021-03-15,cat5,subcat13
+2021,4321,"Cline, Peterson and Lowery",Innovative static budgetary management,50500.0,16389.0,failed,191,US,USD,2021-03-12,2021-10-24,cat5,subcat13
+1473,4168,"Underwood, James and Jones",Triple-buffered holistic ability,900.0,6303.0,successful,89,US,USD,2020-08-02,2021-03-16,cat5,subcat13
+2729,3863,Wilson and Sons,Monitored grid-enabled model,3500.0,3295.0,failed,35,IT,EUR,2021-05-16,2021-10-11,cat5,subcat13
+495,5637,"Wang, Koch and Weaver",Digitized analyzing capacity,196700.0,174039.0,failed,3868,IT,EUR,2021-08-01,2021-12-27,cat5,subcat13
+1335,2134,Solomon PLC,Open-architected 24/7 infrastructure,3600.0,13950.0,successful,157,GB,GBP,2020-05-31,2021-05-13,cat5,subcat13
+499,2648,"Miranda, Gray and Hale",Programmable disintermediate matrices,5300.0,7413.0,successful,225,CH,CHF,2021-08-30,2021-12-03,cat5,subcat13
+2820,3402,Stevenson-Thompson,Automated static workforce,4200.0,14577.0,successful,150,US,USD,2021-01-25,2021-02-21,cat5,subcat13
+48,2262,Simmons-Villarreal,Customer-focused mobile Graphic Interface,3400.0,8089.0,successful,193,US,USD,2020-06-26,2021-06-10,cat5,subcat13
+2488,3916,Cooper Inc,Polarized discrete product,3600.0,2097.0,live,27,GB,GBP,2020-11-13,2021-03-21,cat5,subcat13
+2677,4482,"Black, Armstrong and Anderson",Profound attitude-oriented functionalities,8100.0,11339.0,successful,107,US,USD,2020-11-20,2021-10-18,cat6,subcat14
+91,1294,Reid-Mccullough,Visionary real-time groupware,1600.0,10541.0,successful,98,DK,DKK,2020-11-25,2021-03-01,cat6,subcat14
+468,6026,Barrett PLC,Team-oriented clear-thinking capacity,166700.0,145382.0,failed,3304,IT,EUR,2021-03-20,2021-04-16,cat6,subcat14
+186,4034,Taylor PLC,Seamless zero-defect solution,136800.0,88055.0,failed,3387,US,USD,2020-05-21,2021-01-28,cat6,subcat14
+2893,2441,"Austin, Baker and Kelley",Fundamental grid-enabled strategy,9000.0,3496.0,canceled,57,US,USD,2021-06-04,2021-10-29,cat6,subcat14
+3162,3848,"Johnson, Patterson and Montoya",Triple-buffered fresh-thinking frame,19800.0,184658.0,successful,1884,US,USD,2020-09-20,2021-01-15,cat6,subcat14
+2065,1417,Salazar-Dodson,Face-to-face zero tolerance moderator,32900.0,43473.0,successful,659,DK,DKK,2021-03-20,2021-09-25,cat6,subcat14
+358,1249,Sandoval-Powell,Phased holistic implementation,84400.0,8092.0,failed,80,US,USD,2021-05-09,2021-08-03,cat6,subcat14
+576,4588,Rodriguez-Scott,Realigned zero tolerance software,2100.0,14046.0,successful,134,US,USD,2020-10-14,2021-01-17,cat6,subcat14
+2080,1904,Murphy PLC,Optional solution-oriented instruction set,191500.0,57122.0,failed,1120,US,USD,2021-06-26,2021-10-13,cat6,subcat14
+1987,1494,"Martin, Russell and Baker",Focused solution-oriented instruction set,4200.0,689.0,failed,9,US,USD,2021-01-21,2021-12-30,cat6,subcat14
+1652,2354,"Morrow, Santiago and Soto",Stand-alone human-resource workforce,105000.0,96328.0,failed,1784,US,USD,2021-05-05,2021-05-26,cat6,subcat14
+1451,2565,Shannon-Olson,Enhanced methodical middleware,9800.0,14697.0,successful,140,IT,EUR,2020-10-14,2021-05-30,cat6,subcat14
+2071,5124,Murphy-Fox,Organic system-worthy orchestration,5300.0,4432.0,failed,111,US,USD,2021-06-08,2021-12-27,cat6,subcat14
+2609,3305,"Pace, Simpson and Watkins",Down-sized uniform ability,6900.0,10557.0,successful,123,US,USD,2020-12-02,2021-03-22,cat6,subcat14
+559,1939,"Campbell, Thomas and Obrien",Multi-channeled secondary middleware,171000.0,194309.0,successful,2662,CA,CAD,2021-07-15,2021-10-23,cat6,subcat14
+2865,1485,Allen Inc,Total dedicated benchmark,9200.0,10093.0,successful,96,US,USD,2020-07-20,2021-04-25,cat6,subcat14
 1865,3241,Maldonado-Gonzalez,Digitized client-driven database,3100.0,10085.0,successful,134,US,USD,2021-08-23,2022-01-10,cat8,subcat15
 60,3961,"White, Torres and Bishop",Multi-layered dynamic protocol,9700.0,14606.0,successful,170,US,USD,2021-02-25,2021-03-31,cat8,subcat15
 449,2771,"Robinson, Lopez and Christensen",Organic next generation protocol,5400.0,6351.0,successful,67,US,USD,2020-10-07,2021-10-17,cat8,subcat15
@@ -995,6 +895,106 @@ cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,cou
 1563,3043,"Sanders, Farley and Huffman",Cross-group clear-thinking task-force,172000.0,55805.0,failed,1691,US,USD,2021-04-08,2021-12-18,cat8,subcat15
 1951,6013,Rodriguez-Robinson,Ergonomic methodical hub,5900.0,4997.0,failed,114,IT,EUR,2021-07-23,2021-11-25,cat8,subcat15
 461,3521,Erickson-Rogers,De-engineered even-keeled definition,9800.0,7608.0,canceled,75,IT,EUR,2021-07-03,2021-07-08,cat8,subcat15
+2301,4064,Schmitt-Mendoza,Profound explicit paradigm,90200.0,167717.0,successful,6212,US,USD,2020-11-14,2021-07-06,cat6,subcat16
+2869,2849,Hart-Briggs,Re-engineered user-facing approach,61400.0,73653.0,successful,676,US,USD,2021-03-17,2021-10-27,cat6,subcat16
+1623,1372,Jensen-Vargas,Ameliorated explicit parallelism,89900.0,12497.0,failed,347,US,USD,2020-08-27,2021-04-06,cat6,subcat16
+1575,4790,Cox Group,Synergized analyzing process improvement,7100.0,5824.0,failed,86,AU,AUD,2021-01-20,2021-04-29,cat6,subcat16
+3035,2125,Mays LLC,Multi-layered global groupware,6900.0,11174.0,successful,103,US,USD,2020-03-14,2021-01-31,cat6,subcat16
+182,3651,"Rodriguez, Johnson and Jackson",Digitized foreground array,6500.0,795.0,failed,16,US,USD,2020-06-16,2021-05-25,cat6,subcat16
+2924,1687,Jones-Gonzalez,Seamless dynamic website,3800.0,9021.0,successful,156,CH,CHF,2020-06-16,2021-01-24,cat6,subcat16
+1680,5765,"Gardner, Ryan and Gutierrez",Triple-buffered multi-tasking matrices,9400.0,4899.0,failed,64,US,USD,2021-03-02,2021-09-20,cat6,subcat16
+378,3714,"Jones, Taylor and Moore",Down-sized system-worthy secured line,100.0,2.0,failed,1,IT,EUR,2021-10-08,2021-11-03,cat2,subcat17
+747,2812,Davis-Michael,Progressive tertiary framework,3900.0,4776.0,successful,85,GB,GBP,2021-06-29,2021-08-27,cat2,subcat17
+1221,2152,Sandoval Group,Assimilated multi-tasking archive,7100.0,8716.0,successful,126,US,USD,2021-08-30,2021-09-21,cat2,subcat17
+2836,4161,Garcia Ltd,Secured global success,5600.0,5476.0,failed,137,DK,DKK,2020-12-13,2021-04-14,cat2,subcat17
+467,3219,"Roberts, Hinton and Williams",Programmable static middleware,35000.0,177936.0,successful,3016,US,USD,2020-07-04,2021-03-31,cat2,subcat17
+1277,2344,Marquez-Kerr,Automated hybrid orchestration,15800.0,83267.0,successful,980,US,USD,2021-04-01,2022-01-01,cat2,subcat17
+2663,2093,Lutz Group,Enterprise-wide foreground paradigm,2700.0,1012.0,failed,12,IT,EUR,2020-09-07,2021-07-05,cat2,subcat17
+1057,2034,"Wright, Brooks and Villarreal",Reverse-engineered bifurcated strategy,6600.0,11746.0,successful,131,US,USD,2021-09-29,2021-11-29,cat2,subcat18
+1556,3571,Collins-Goodman,Cross-platform even-keeled initiative,1400.0,9253.0,successful,88,US,USD,2020-05-11,2021-03-09,cat2,subcat18
+2110,2785,Daniel-Luna,Mandatory multimedia leverage,75000.0,2529.0,failed,40,US,USD,2020-10-20,2021-01-17,cat2,subcat18
+647,6217,Cole LLC,Proactive responsive emulation,111900.0,85902.0,failed,3182,IT,EUR,2021-08-07,2022-01-13,cat2,subcat18
+2314,5136,Shannon Ltd,Pre-emptive neutral capacity,100.0,5.0,failed,1,US,USD,2021-01-19,2021-07-25,cat2,subcat18
+308,2290,"Owens, Hall and Gonzalez",De-engineered static orchestration,62800.0,143788.0,successful,3059,CA,CAD,2020-11-19,2021-08-28,cat2,subcat18
+2349,5490,King-Nguyen,Open-source incremental throughput,1300.0,13678.0,successful,249,US,USD,2021-06-25,2021-10-01,cat2,subcat18
+2371,2996,Stevens Inc,Adaptive 24hour projection,8200.0,1546.0,canceled,37,US,USD,2021-10-08,2021-11-27,cat2,subcat18
+1423,4556,Franklin Inc,Focused multimedia knowledgebase,6200.0,6269.0,successful,87,US,USD,2020-05-01,2021-04-13,cat2,subcat18
+569,4869,Johnson Group,Compatible full-range leverage,3900.0,11075.0,successful,316,US,USD,2021-02-28,2021-05-08,cat2,subcat18
+1805,3418,"Wilson, Wilson and Mathis",Optional asymmetric success,100.0,2.0,failed,1,US,USD,2021-06-11,2021-10-26,cat2,subcat18
+2747,4073,Smith Group,Right-sized secondary challenge,106800.0,57872.0,failed,752,DK,DKK,2021-08-27,2021-12-19,cat2,subcat18
+3129,2623,Young PLC,Optional maximized attitude,79400.0,26571.0,failed,1063,US,USD,2020-05-20,2021-02-06,cat2,subcat18
+2089,2059,Davis Ltd,Upgradable uniform service-desk,3500.0,6204.0,successful,100,AU,AUD,2021-04-22,2021-07-19,cat2,subcat18
+2504,4178,Smith-Brown,Object-based content-based ability,1500.0,10946.0,successful,207,IT,EUR,2020-12-01,2021-07-19,cat2,subcat18
+2575,1717,Cook-Ortiz,Right-sized dedicated standardization,17700.0,150960.0,successful,1797,US,USD,2021-06-11,2021-08-22,cat2,subcat18
+2444,2141,Best-Young,Implemented multimedia time-frame,3100.0,12620.0,successful,123,CH,CHF,2020-08-19,2021-06-02,cat2,subcat18
+2003,5119,"Montgomery, Larson and Spencer",User-centric bifurcated knowledge user,4500.0,13536.0,successful,330,US,USD,2020-12-24,2021-04-16,cat6,subcat19
+2821,2085,Clark Group,Grass-roots fault-tolerant policy,4800.0,12516.0,successful,113,US,USD,2020-07-21,2021-02-22,cat6,subcat19
+2791,3211,"Frazier, Patrick and Smith",Enhanced systemic analyzer,154300.0,74688.0,failed,679,IT,EUR,2020-07-03,2021-06-17,cat6,subcat19
+379,5216,Blair Group,Public-key 3rdgeneration budgetary management,4900.0,521.0,failed,5,US,USD,2020-11-17,2021-11-23,cat6,subcat19
+211,4605,Avila-Nelson,Up-sized intermediate website,61500.0,168095.0,successful,6465,US,USD,2020-03-25,2021-02-19,cat6,subcat19
+41,2583,"Ward, Sanchez and Kemp",Stand-alone discrete Graphical User Interface,3900.0,9419.0,successful,116,US,USD,2021-06-02,2021-12-31,cat6,subcat19
+387,3193,Gonzalez-Robbins,Up-sized responsive protocol,4700.0,8829.0,successful,80,US,USD,2021-04-09,2022-02-18,cat6,subcat19
+1139,5619,Nichols Ltd,Function-based attitude-oriented groupware,7400.0,8432.0,successful,211,US,USD,2021-07-02,2021-07-18,cat6,subcat19
+1730,5469,"Davis, Cox and Fox",Compatible exuding Graphical User Interface,5200.0,702.0,failed,21,GB,GBP,2021-03-28,2021-09-06,cat6,subcat19
+1056,5858,Smith and Sons,Grass-roots 24/7 attitude,5200.0,12467.0,successful,122,US,USD,2020-04-01,2021-03-01,cat6,subcat19
+2331,1628,Pugh LLC,Reactive analyzing function,8900.0,13065.0,successful,136,US,USD,2020-08-15,2021-07-04,cat6,subcat19
+917,2385,Jordan-Wolfe,Inverse multimedia Graphic Interface,4500.0,1863.0,failed,18,US,USD,2021-04-10,2021-04-25,cat6,subcat19
+195,3041,Perez Group,Cross-platform tertiary hub,63400.0,197728.0,successful,2038,US,USD,2021-05-01,2021-11-03,cat6,subcat19
+1006,1235,"Hale, Pearson and Jenkins",Upgradable attitude-oriented project,97200.0,55372.0,failed,513,US,USD,2020-12-17,2021-05-27,cat6,subcat19
+964,4804,"Bradley, Beck and Mayo",Synergized fault-tolerant hierarchy,43200.0,136156.0,successful,1297,DK,DKK,2020-10-28,2021-08-14,cat6,subcat19
+1093,5768,"Levine, Martin and Hernandez",Expanded asynchronous groupware,6800.0,10723.0,successful,165,DK,DKK,2021-02-01,2021-05-29,cat6,subcat19
+1261,5361,"Anderson, Parks and Estrada",Realigned discrete structure,6000.0,13835.0,successful,182,US,USD,2020-11-02,2021-09-04,cat6,subcat19
+2122,5508,Black-Graham,Operative hybrid utilization,145000.0,6631.0,failed,130,US,USD,2021-09-17,2021-10-03,cat6,subcat19
+1809,4220,"Mason, Case and May",Optimized content-based collaboration,5700.0,6800.0,successful,155,US,USD,2021-04-18,2021-11-16,cat6,subcat19
+2585,2185,Hernandez Inc,Versatile dedicated migration,2400.0,11990.0,successful,226,US,USD,2021-06-12,2021-08-18,cat6,subcat19
+1419,5262,"Leach, Rich and Price",Implemented bi-directional flexibility,141100.0,74073.0,failed,842,US,USD,2021-11-15,2021-12-07,cat6,subcat19
+1179,3486,Romero and Sons,Object-based client-server application,5200.0,3079.0,failed,60,US,USD,2020-10-01,2021-06-12,cat5,subcat20
+2300,4591,Chaney-Dennis,Business-focused 24hour groupware,4900.0,8523.0,successful,275,US,USD,2021-06-18,2021-12-31,cat5,subcat20
+2745,3233,Bailey PLC,Innovative actuating conglomeration,1000.0,718.0,failed,19,US,USD,2020-04-28,2021-03-22,cat5,subcat20
+2162,5660,Miles and Sons,Persistent attitude-oriented approach,3500.0,8842.0,successful,87,US,USD,2021-06-11,2021-06-24,cat5,subcat20
+213,4218,"Ross, Kelly and Brown",Virtual contextually-based circuit,8400.0,9076.0,successful,133,US,USD,2021-07-20,2021-08-18,cat5,subcat20
+3051,3475,Smith-Gonzalez,Polarized needs-based approach,5400.0,14743.0,successful,154,US,USD,2021-03-30,2021-06-02,cat5,subcat20
+1689,3309,Miller-Poole,Networked optimal adapter,102500.0,165954.0,successful,3131,US,USD,2020-11-04,2021-03-08,cat5,subcat20
+956,1932,Harrington-Harper,Self-enabling next generation algorithm,155200.0,37754.0,canceled,439,GB,GBP,2020-08-13,2021-06-11,cat5,subcat20
+596,5850,Santos-Young,Enhanced neutral ability,4000.0,14606.0,successful,142,US,USD,2021-02-03,2021-07-14,cat5,subcat20
+300,1786,"Harrison, Blackwell and Mendez",Synchronized 6thgeneration adapter,8300.0,3260.0,canceled,35,US,USD,2021-07-10,2021-11-02,cat5,subcat20
+1151,1907,"Taylor, Johnson and Hernandez",Polarized incremental portal,118200.0,92824.0,canceled,1658,US,USD,2021-08-29,2021-09-24,cat5,subcat20
+1484,1831,Mack Ltd,Reactive regional access,139000.0,158590.0,successful,2266,US,USD,2021-01-14,2021-02-16,cat5,subcat20
+1234,2339,"Bowen, Davies and Burns",Devolved client-server monitoring,2900.0,12449.0,successful,175,US,USD,2021-01-18,2021-08-14,cat5,subcat20
+936,4969,Davis-Johnson,Automated reciprocal protocol,1400.0,5415.0,successful,217,US,USD,2020-08-22,2021-08-03,cat5,subcat20
+267,4337,Barrett Inc,Organic cohesive neural-net,1700.0,3208.0,successful,56,GB,GBP,2020-12-05,2021-12-04,cat5,subcat20
+1873,6142,Riggs Group,Configurable upward-trending solution,125900.0,195936.0,successful,1866,GB,GBP,2021-01-30,2021-06-11,cat5,subcat20
+843,3699,Garner and Sons,Versatile neutral workforce,5100.0,1414.0,failed,24,US,USD,2020-09-17,2021-04-26,cat5,subcat20
+2484,5368,Vega Group,Synchronized regional synergy,75100.0,112272.0,successful,1782,US,USD,2021-04-15,2021-10-08,cat7,subcat21
+558,4351,Hogan Ltd,Stand-alone mission-critical moratorium,9600.0,9216.0,failed,115,US,USD,2021-05-10,2021-12-17,cat7,subcat21
+1599,5154,Johnson-Lee,Intuitive exuding process improvement,60900.0,102751.0,successful,943,US,USD,2020-08-07,2021-06-15,cat7,subcat21
+146,1349,Hoffman-Howard,Extended encompassing application,85600.0,165798.0,successful,2551,US,USD,2020-12-19,2021-03-10,cat7,subcat21
+1717,2619,Roberts and Sons,Streamlined holistic knowledgebase,6200.0,13103.0,successful,218,AU,AUD,2020-11-03,2021-08-02,cat7,subcat21
+1572,3290,Mcmillan Group,Advanced cohesive Graphic Interface,153700.0,55536.0,live,1111,US,USD,2021-03-22,2021-12-29,cat7,subcat21
+969,2043,Wang-Rodriguez,Total multimedia website,188800.0,57734.0,failed,535,US,USD,2021-10-13,2021-11-02,cat7,subcat21
+241,5072,"Young, Gilbert and Escobar",Networked didactic time-frame,151300.0,57034.0,failed,1296,US,USD,2020-10-11,2021-06-07,cat7,subcat21
+1010,4945,"Holder, Caldwell and Vance",Polarized systemic Internet solution,178000.0,43086.0,failed,395,IT,EUR,2020-09-17,2021-05-25,cat7,subcat21
+2600,5849,Nelson-Valdez,Open-source 4thgeneration open system,145600.0,141822.0,failed,2955,US,USD,2020-02-14,2021-04-06,cat7,subcat21
+1203,5245,"Fischer, Torres and Walker",Expanded even-keeled portal,118000.0,28870.0,failed,656,US,USD,2021-06-16,2021-08-03,cat7,subcat21
+2490,1918,Dawson-Tyler,Optional 6thgeneration access,193200.0,97369.0,failed,1596,US,USD,2020-12-08,2021-07-28,cat7,subcat21
+2098,5261,Freeman-Ferguson,Profound full-range open system,7800.0,4275.0,failed,78,US,USD,2021-02-10,2021-04-14,cat7,subcat21
+2107,5445,Gates PLC,Secured content-based product,4500.0,13985.0,successful,159,US,USD,2020-07-09,2021-05-18,cat2,subcat22
+1381,5921,Soto-Anthony,Ameliorated logistical capability,51400.0,90440.0,successful,2261,US,USD,2020-10-13,2021-02-22,cat2,subcat22
+2040,4467,Howard-Douglas,Organized human-resource attitude,88400.0,121138.0,successful,1573,US,USD,2020-09-22,2021-04-06,cat2,subcat22
+1369,1850,Schultz Inc,Synergistic tertiary time-frame,9400.0,6338.0,failed,226,DK,DKK,2021-01-28,2021-08-24,cat5,subcat23
+3030,2939,"Moore, Dudley and Navarro",Organic multi-tasking focus group,129400.0,57911.0,failed,934,US,USD,2021-03-09,2021-06-28,cat5,subcat23
+286,3847,Lester-Moore,Diverse analyzing definition,46300.0,186885.0,successful,3594,US,USD,2021-01-01,2021-05-30,cat5,subcat23
+1691,4754,Cummings Inc,Digitized transitional monitoring,28400.0,100900.0,successful,2293,US,USD,2020-09-22,2021-07-09,cat5,subcat23
+783,4520,Saunders Ltd,Multi-layered multi-tasking secured line,182400.0,102749.0,failed,1181,US,USD,2020-05-20,2021-03-06,cat5,subcat23
+88,5388,"Hogan, Porter and Rivera",Organic object-oriented core,8500.0,4613.0,failed,113,US,USD,2021-07-14,2021-08-23,cat5,subcat23
+1278,5203,Lam-Hamilton,Team-oriented global strategy,6000.0,11960.0,successful,221,US,USD,2021-06-14,2021-08-18,cat5,subcat23
+359,2993,Martinez-Johnson,Sharable radical toolset,96500.0,16168.0,failed,245,US,USD,2021-04-29,2021-12-14,cat5,subcat23
+50,3613,Rose-Fuller,Upgradable holistic system engine,10000.0,12042.0,successful,117,US,USD,2021-09-28,2021-10-04,cat5,subcat23
+1193,3992,"Russo, Kim and Mccoy",Balanced optimal hardware,10000.0,824.0,failed,14,US,USD,2020-11-17,2021-09-22,cat5,subcat23
+1973,2357,Montgomery-Castro,De-engineered disintermediate encryption,43800.0,13653.0,failed,248,AU,AUD,2021-01-26,2022-01-18,cat5,subcat23
+175,3264,Davis LLC,Compatible logistical paradigm,4700.0,7992.0,successful,81,AU,AUD,2021-08-22,2021-10-12,cat5,subcat23
+1994,4093,Boyle Ltd,Streamlined fault-tolerant conglomeration,3300.0,1980.0,failed,21,US,USD,2021-03-07,2021-09-06,cat5,subcat23
+1475,2813,Wood Inc,Re-engineered composite focus group,187600.0,35698.0,failed,830,US,USD,2020-08-17,2021-08-05,cat5,subcat23
 1095,3565,Young and Sons,Innovative disintermediate encryption,2400.0,4596.0,successful,144,US,USD,2020-11-28,2021-02-28,cat9,subcat24
 1388,4517,Valenzuela-Cook,Total incremental productivity,6700.0,7496.0,successful,300,US,USD,2021-01-04,2021-10-04,cat9,subcat24
 2448,2389,Little Ltd,Decentralized bandwidth-monitored ability,6900.0,12155.0,successful,419,US,USD,2021-01-25,2021-04-18,cat9,subcat24
